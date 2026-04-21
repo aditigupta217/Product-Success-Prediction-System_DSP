@@ -1,0 +1,1001 @@
+Category,Seasonality,Region,Price,Discount,Marketing_Budget,Advertising_Channel,Target_Age_Group,Brand_Reputation,Competition_Level,Product_Quality_Rating,Previous_Product_Success,Success
+Beauty,Summer,East,15.76,40,20000,TV,Seniors,Medium,Medium,3.7,Yes,1
+Toys,Autumn,West,20.13,50,50000,Influencer,Seniors,Medium,Medium,1.5,Yes,0
+Furniture,Spring,South,11.21,20,50000,None,Kids,Medium,High,1.5,No,0
+Beauty,Spring,West,414.12,25,500,None,Teens,High,High,2.6,No,0
+Food,Spring,West,1699.99,15,10000,TV,Adults,Low,Low,3.6,Yes,1
+Books,Spring,East,1709.55,20,2000,Social Media,Kids,High,Low,3.8,No,1
+Furniture,Winter,West,47.53,30,20000,Influencer,Kids,Low,High,1.7,Yes,0
+Furniture,Spring,East,1702.53,50,2000,None,Kids,Medium,Low,1.3,Yes,1
+Beauty,Winter,North,423.53,25,500,TV,Seniors,Low,High,4.8,No,0
+Clothing,Winter,North,411.86,25,20000,None,Teens,High,High,2.0,Yes,1
+Food,Spring,East,405.23,40,20000,Influencer,Teens,High,Low,4.4,No,1
+Beauty,Spring,North,39.26,15,10000,Influencer,Adults,Low,Low,4.5,No,1
+Food,Summer,South,12.85,10,2000,Email,Teens,Medium,Medium,4.1,Yes,1
+Food,Autumn,West,1706.77,30,2000,TV,Teens,Medium,Medium,1.7,Yes,1
+Books,Spring,South,407.11,20,2000,Influencer,Kids,High,Medium,4.3,Yes,1
+Furniture,Summer,West,410.59,5,10000,Email,Kids,Low,High,4.1,No,0
+Toys,Summer,North,19.64,5,20000,Email,Seniors,Medium,Low,3.4,Yes,1
+Books,Autumn,South,413.98,25,500,None,Kids,Medium,High,2.3,No,1
+Books,Winter,North,1704.8,40,2000,None,Kids,High,Low,2.1,No,0
+Food,Spring,West,43.79,0,5000,Email,Kids,Medium,High,1.5,Yes,0
+Sports,Autumn,East,411.43,25,10000,None,Kids,Low,Medium,3.0,No,0
+Furniture,Spring,East,1696.85,5,1000,Influencer,Seniors,High,Medium,3.3,Yes,0
+Clothing,Summer,South,411.3,5,500,Social Media,Kids,High,Medium,2.4,Yes,0
+Books,Summer,North,20.41,30,5000,Influencer,Adults,Low,High,2.9,Yes,0
+Toys,Winter,North,412.6,0,2000,Email,Adults,High,Low,2.5,Yes,1
+Sports,Summer,South,415.24,25,1000,Email,Adults,Medium,Low,3.6,Yes,1
+Sports,Summer,East,40.22,30,500,Influencer,Adults,Medium,Medium,4.6,Yes,1
+Clothing,Autumn,West,23.04,40,10000,None,Kids,Low,Medium,1.7,Yes,0
+Books,Spring,South,5.29,30,1000,None,Adults,Medium,Medium,2.5,No,0
+Toys,Spring,West,43.86,25,20000,Email,Kids,Low,Medium,1.6,Yes,0
+Furniture,Autumn,East,420.03,50,50000,TV,Seniors,Low,Low,3.5,No,1
+Electronics,Winter,North,1712.36,10,1000,None,Adults,Medium,High,3.9,No,0
+Toys,Spring,East,16.91,25,50000,Influencer,Teens,Low,High,4.7,No,0
+Clothing,Summer,South,11.44,15,5000,None,Adults,Medium,High,2.1,Yes,1
+Sports,Spring,North,420.12,5,500,Influencer,Adults,High,High,4.8,No,1
+Furniture,Summer,South,413.03,0,5000,Email,Kids,High,Medium,1.3,No,0
+Toys,Winter,South,17.27,0,5000,None,Adults,Low,Medium,3.4,Yes,1
+Electronics,Autumn,East,408.82,10,2000,Influencer,Teens,Medium,Medium,1.2,Yes,0
+Electronics,Spring,South,1698.62,15,10000,Email,Kids,Medium,High,4.6,No,0
+Food,Autumn,East,20.89,5,1000,TV,Kids,High,Medium,3.1,Yes,0
+Food,Spring,North,1708.22,0,500,Influencer,Seniors,High,Medium,3.7,Yes,1
+Beauty,Summer,East,1705.88,15,20000,TV,Seniors,Medium,Low,4.3,Yes,1
+Clothing,Autumn,North,409.47,30,10000,TV,Adults,Low,Low,1.6,Yes,1
+Books,Spring,East,1699.54,25,10000,Social Media,Seniors,High,Medium,1.2,No,1
+Toys,Summer,West,406.12,25,500,None,Seniors,Low,Low,4.5,Yes,1
+Toys,Autumn,West,40.35,50,10000,Influencer,Seniors,Low,Low,2.3,Yes,1
+Books,Autumn,South,408.26,5,2000,TV,Kids,High,Medium,1.5,Yes,1
+Beauty,Spring,East,1696.32,15,10000,Social Media,Kids,Low,Medium,2.9,No,0
+Sports,Spring,East,46.41,20,2000,Email,Kids,Low,Medium,3.4,No,0
+Sports,Spring,North,406.69,0,1000,Influencer,Seniors,Medium,Medium,1.1,Yes,1
+Beauty,Summer,South,1709.79,40,1000,TV,Kids,Low,High,2.1,Yes,1
+Sports,Spring,East,20.04,40,5000,None,Seniors,Medium,High,1.1,No,0
+Food,Autumn,South,19.54,25,2000,Social Media,Kids,High,Medium,2.7,Yes,0
+Toys,Autumn,West,421.61,20,20000,TV,Kids,High,Low,4.6,Yes,1
+Beauty,Spring,East,406.86,40,1000,None,Teens,Medium,Medium,4.9,No,1
+Toys,Spring,East,22.44,10,10000,TV,Adults,High,Medium,3.5,Yes,1
+Books,Winter,South,1703.38,10,500,Influencer,Seniors,Low,Low,1.6,Yes,0
+Electronics,Autumn,East,1717.72,5,500,Influencer,Teens,Low,High,4.6,No,0
+Food,Summer,South,1702.96,20,50000,Influencer,Kids,Low,Medium,3.1,No,0
+Furniture,Winter,East,410.57,10,2000,Social Media,Seniors,High,Medium,1.6,Yes,1
+Food,Spring,North,45.28,10,20000,Influencer,Kids,Low,High,4.7,No,1
+Beauty,Spring,South,42.11,25,5000,None,Adults,High,High,4.0,Yes,1
+Furniture,Autumn,East,39.36,40,10000,TV,Teens,Low,Low,3.9,Yes,1
+Electronics,Spring,West,38.3,5,2000,Email,Adults,Medium,High,3.8,Yes,0
+Beauty,Summer,East,50.45,15,50000,None,Teens,High,High,1.8,No,0
+Clothing,Autumn,West,407.47,30,500,None,Kids,High,High,1.8,No,0
+Toys,Spring,West,414.4,0,2000,Influencer,Adults,Low,Low,3.8,Yes,1
+Electronics,Autumn,North,48.44,0,10000,Social Media,Adults,High,High,1.9,Yes,0
+Toys,Spring,South,418.81,30,20000,TV,Kids,High,High,2.8,No,0
+Sports,Spring,East,410.28,30,20000,Social Media,Adults,Medium,Low,4.1,No,0
+Clothing,Spring,North,42.12,0,1000,TV,Seniors,Medium,High,4.1,No,1
+Clothing,Summer,East,1702.87,0,10000,TV,Teens,Low,High,2.8,Yes,1
+Electronics,Summer,West,405.61,15,50000,Social Media,Teens,Medium,Low,4.2,No,1
+Clothing,Autumn,South,1707.55,20,1000,None,Teens,Low,Medium,4.4,No,1
+Furniture,Spring,East,413.48,20,1000,TV,Seniors,Low,Low,3.6,Yes,0
+Clothing,Spring,East,420.49,15,1000,Social Media,Teens,Low,High,1.9,Yes,0
+Toys,Summer,West,39.04,40,2000,TV,Kids,High,High,2.1,Yes,0
+Toys,Spring,East,418.73,30,50000,Email,Adults,Medium,High,2.3,No,0
+Beauty,Summer,East,23.86,50,500,None,Seniors,Low,Low,1.5,Yes,0
+Toys,Spring,West,18.3,30,20000,Influencer,Teens,Medium,High,2.1,Yes,1
+Beauty,Autumn,North,32.3,0,2000,TV,Kids,Low,High,1.8,Yes,0
+Toys,Spring,West,1702.3,30,500,Email,Adults,Medium,Low,2.8,Yes,1
+Furniture,Spring,North,1713.8,0,20000,Influencer,Adults,Medium,Medium,4.6,No,1
+Books,Winter,South,1706.35,30,50000,Influencer,Seniors,Low,Medium,1.4,Yes,1
+Beauty,Summer,North,21.54,40,50000,TV,Seniors,High,High,3.9,No,1
+Food,Spring,North,1704.42,50,10000,Social Media,Seniors,Medium,Low,3.7,No,1
+Sports,Spring,South,1703.75,10,20000,TV,Kids,High,High,1.4,No,1
+Electronics,Winter,North,33.82,15,20000,Email,Kids,High,Low,4.7,Yes,1
+Toys,Winter,West,1708.84,15,50000,Influencer,Seniors,Low,Low,3.3,No,1
+Clothing,Summer,North,23.47,50,20000,TV,Teens,Low,Medium,2.5,Yes,0
+Books,Winter,South,13.31,30,5000,Social Media,Adults,Low,Medium,4.0,Yes,0
+Toys,Autumn,West,17.17,10,10000,TV,Adults,Medium,Low,2.0,Yes,1
+Clothing,Winter,South,41.59,20,2000,None,Kids,Low,High,3.8,No,0
+Sports,Autumn,South,45.26,30,2000,Social Media,Adults,Low,Medium,1.2,Yes,1
+Sports,Summer,East,410.56,40,500,Email,Teens,Medium,High,4.4,Yes,1
+Sports,Summer,East,1709.52,0,2000,Influencer,Adults,Medium,Medium,2.8,Yes,0
+Clothing,Summer,South,43.51,5,1000,TV,Kids,Low,Medium,3.5,No,0
+Toys,Summer,South,5.32,30,20000,Social Media,Kids,Low,High,1.9,No,1
+Sports,Summer,South,20.28,5,2000,None,Teens,Low,Medium,3.7,No,0
+Furniture,Autumn,East,48.14,30,500,Social Media,Teens,Low,Medium,4.1,Yes,1
+Beauty,Autumn,East,37.39,50,500,None,Adults,High,High,2.9,No,0
+Clothing,Summer,North,45.2,5,1000,Email,Adults,High,Medium,3.5,Yes,1
+Clothing,Winter,North,422.44,30,500,Influencer,Kids,Low,Medium,2.8,Yes,0
+Toys,Spring,South,18.63,15,50000,Email,Teens,High,Medium,4.6,No,1
+Clothing,Summer,West,418.99,5,5000,TV,Teens,Medium,High,3.0,Yes,0
+Clothing,Winter,West,411.08,30,50000,Social Media,Teens,High,Low,4.4,No,0
+Sports,Spring,East,1704.78,20,20000,None,Adults,High,High,4.2,Yes,1
+Toys,Summer,East,17.05,0,20000,None,Teens,Low,Low,2.6,No,1
+Sports,Summer,East,16.13,20,20000,Social Media,Kids,High,Medium,1.9,Yes,1
+Beauty,Autumn,South,42.42,10,10000,Social Media,Kids,High,Low,2.6,Yes,1
+Books,Spring,West,35.0,30,2000,TV,Adults,High,High,4.3,Yes,1
+Beauty,Spring,North,1703.21,25,5000,Email,Seniors,High,High,1.9,Yes,1
+Books,Winter,South,419.98,40,2000,None,Adults,Medium,Medium,3.1,Yes,1
+Sports,Autumn,North,38.34,20,5000,TV,Seniors,Low,Low,4.2,No,1
+Beauty,Autumn,North,37.82,5,2000,Email,Teens,Low,Medium,2.4,Yes,0
+Toys,Autumn,South,18.37,50,1000,TV,Adults,Medium,Medium,3.6,No,1
+Electronics,Autumn,North,18.62,40,50000,None,Kids,High,High,2.0,No,0
+Sports,Spring,West,45.04,25,500,Social Media,Teens,Medium,Low,1.4,No,1
+Books,Spring,North,17.5,30,500,Social Media,Kids,High,Low,4.2,Yes,1
+Furniture,Summer,West,1705.23,50,50000,Email,Teens,Medium,Low,1.4,Yes,0
+Books,Summer,West,41.4,30,1000,Influencer,Adults,Low,Low,2.1,Yes,1
+Furniture,Autumn,West,11.69,10,5000,Email,Seniors,Low,Medium,4.4,No,1
+Clothing,Autumn,East,1704.51,25,50000,Influencer,Teens,Low,Medium,2.4,Yes,0
+Beauty,Autumn,North,21.69,30,10000,TV,Seniors,High,High,4.9,Yes,1
+Furniture,Summer,South,20.64,5,5000,TV,Teens,High,Medium,4.9,No,0
+Books,Winter,South,9.35,10,500,None,Kids,Medium,Medium,2.1,No,0
+Clothing,Winter,North,44.41,15,10000,Influencer,Kids,Medium,High,1.2,No,1
+Electronics,Summer,East,408.82,25,2000,None,Teens,Low,High,3.8,No,0
+Toys,Summer,East,25.03,0,10000,Social Media,Seniors,High,High,2.8,No,1
+Toys,Summer,West,1706.5,50,5000,Influencer,Adults,Medium,Medium,1.4,No,1
+Toys,Summer,North,47.64,20,1000,Email,Adults,High,Medium,3.8,Yes,1
+Furniture,Summer,North,43.26,30,2000,Social Media,Kids,High,High,1.1,No,1
+Electronics,Summer,South,1704.54,50,5000,Social Media,Adults,Low,High,4.5,Yes,1
+Furniture,Autumn,North,25.55,50,2000,Email,Kids,Low,High,1.6,Yes,1
+Beauty,Autumn,East,418.15,0,10000,Social Media,Adults,High,Medium,1.5,Yes,1
+Furniture,Autumn,North,18.66,0,500,Influencer,Teens,High,Medium,1.7,No,0
+Electronics,Autumn,South,1703.87,10,5000,None,Kids,High,Low,4.8,Yes,1
+Electronics,Summer,West,34.62,25,1000,Social Media,Kids,High,Medium,3.8,No,0
+Beauty,Winter,South,414.91,5,50000,Influencer,Teens,Low,Medium,4.2,No,0
+Electronics,Spring,South,42.52,0,10000,TV,Kids,Medium,Medium,2.6,Yes,1
+Books,Summer,West,1707.64,0,5000,Influencer,Adults,Low,High,2.3,No,1
+Electronics,Spring,South,22.36,20,1000,None,Adults,Medium,Medium,1.9,Yes,0
+Toys,Winter,South,419.45,15,5000,Influencer,Kids,High,High,2.9,Yes,0
+Books,Autumn,North,44.84,0,10000,Email,Adults,Medium,Low,3.2,No,0
+Books,Winter,North,37.92,15,5000,None,Seniors,Low,Low,3.5,Yes,1
+Beauty,Summer,West,32.41,10,2000,TV,Kids,Low,High,2.0,Yes,0
+Food,Autumn,North,13.95,5,10000,Email,Teens,High,High,4.8,Yes,1
+Food,Summer,North,419.95,50,5000,Influencer,Seniors,Low,High,1.7,No,0
+Electronics,Autumn,South,27.19,0,50000,None,Kids,High,Medium,4.9,Yes,1
+Books,Spring,East,16.88,30,500,TV,Teens,Low,Low,1.1,No,1
+Food,Spring,North,10.76,15,5000,Email,Adults,Low,High,2.9,No,0
+Food,Spring,East,1701.63,20,2000,TV,Teens,High,Medium,2.3,Yes,1
+Electronics,Winter,North,1710.56,20,1000,Influencer,Seniors,Medium,Low,2.8,Yes,0
+Food,Summer,North,1701.91,0,50000,TV,Adults,Low,Medium,3.3,No,0
+Furniture,Winter,West,416.23,25,1000,Social Media,Kids,Medium,Low,2.7,No,0
+Clothing,Spring,West,18.91,50,50000,Email,Adults,Low,Medium,2.7,Yes,1
+Beauty,Summer,West,21.62,5,1000,TV,Kids,Low,Low,3.9,Yes,0
+Clothing,Spring,East,1713.96,30,500,Influencer,Kids,Low,Low,3.7,No,0
+Electronics,Winter,South,21.02,25,2000,Influencer,Teens,Low,Medium,4.3,No,1
+Toys,Winter,North,18.8,20,10000,TV,Teens,Medium,High,2.0,No,1
+Beauty,Winter,North,52.8,15,1000,Influencer,Teens,Medium,Low,3.4,No,0
+Electronics,Spring,North,19.82,15,50000,None,Seniors,Low,High,3.3,No,0
+Books,Summer,East,39.19,25,2000,None,Seniors,Low,Medium,2.5,Yes,0
+Toys,Summer,West,21.51,15,5000,None,Teens,Medium,High,2.9,No,0
+Clothing,Spring,South,415.52,20,500,Social Media,Seniors,High,High,2.3,No,0
+Electronics,Summer,East,1703.33,25,2000,TV,Adults,High,High,1.6,Yes,1
+Books,Spring,West,40.57,20,2000,Social Media,Adults,Medium,High,1.9,Yes,1
+Beauty,Summer,East,1703.38,30,10000,Influencer,Seniors,Low,High,1.4,No,1
+Beauty,Autumn,South,40.5,50,2000,Social Media,Seniors,Low,Low,3.7,No,0
+Sports,Autumn,West,41.83,30,10000,Influencer,Adults,High,Low,3.6,Yes,1
+Books,Winter,East,38.94,30,500,Influencer,Kids,High,Low,4.8,No,1
+Furniture,Autumn,South,415.22,15,500,Email,Adults,Medium,Medium,3.9,No,0
+Food,Autumn,North,19.62,0,5000,None,Adults,High,High,1.2,Yes,0
+Toys,Autumn,South,44.88,40,10000,Influencer,Seniors,Medium,Low,4.5,No,1
+Books,Spring,North,412.97,15,10000,Email,Adults,High,Medium,4.5,Yes,1
+Sports,Autumn,East,42.27,0,1000,None,Seniors,High,Low,2.8,Yes,1
+Food,Autumn,West,25.28,20,1000,Influencer,Seniors,High,Low,3.3,Yes,1
+Food,Winter,West,43.49,40,5000,Influencer,Teens,Low,High,4.9,Yes,0
+Electronics,Autumn,East,419.61,15,500,Social Media,Adults,Low,Medium,3.1,No,1
+Food,Autumn,West,13.09,40,20000,Social Media,Kids,Low,High,4.6,Yes,1
+Furniture,Summer,West,416.23,40,1000,None,Teens,High,High,1.3,No,1
+Beauty,Winter,North,14.4,10,2000,Influencer,Seniors,Medium,Low,1.8,No,0
+Sports,Winter,East,15.29,50,500,TV,Seniors,Medium,High,2.8,No,1
+Food,Winter,South,1702.81,10,20000,Social Media,Kids,Medium,Medium,3.3,No,0
+Electronics,Winter,North,1702.49,0,2000,None,Seniors,Medium,High,4.3,No,1
+Furniture,Winter,East,1702.52,5,50000,Influencer,Adults,Low,High,5.0,Yes,0
+Clothing,Winter,North,24.16,25,10000,Influencer,Teens,Low,High,2.6,Yes,0
+Beauty,Spring,South,43.38,5,500,TV,Seniors,High,Low,1.2,Yes,1
+Beauty,Autumn,South,414.41,25,50000,None,Seniors,High,Medium,4.2,Yes,1
+Sports,Winter,East,411.0,0,5000,Influencer,Kids,Medium,Low,3.4,No,0
+Beauty,Autumn,South,417.57,0,10000,Social Media,Adults,Low,Low,1.8,Yes,0
+Food,Autumn,North,1706.64,20,10000,TV,Seniors,Medium,Low,3.0,No,1
+Electronics,Spring,South,16.52,50,2000,None,Kids,High,Low,4.0,No,1
+Beauty,Winter,North,1696.95,40,50000,TV,Seniors,High,Low,4.1,Yes,1
+Beauty,Summer,North,44.24,10,10000,Social Media,Kids,Medium,Medium,3.0,Yes,1
+Clothing,Spring,South,20.95,10,1000,None,Kids,High,High,2.2,Yes,0
+Clothing,Summer,East,408.39,0,500,TV,Adults,Medium,Low,4.9,Yes,1
+Toys,Autumn,West,1703.39,10,1000,Email,Seniors,Low,Low,3.7,No,1
+Furniture,Autumn,South,1707.55,0,2000,Social Media,Adults,Medium,Medium,2.6,No,0
+Food,Spring,North,35.3,40,20000,Social Media,Kids,Low,Medium,2.1,Yes,1
+Beauty,Spring,North,39.91,0,2000,Social Media,Teens,Low,High,3.9,No,0
+Books,Summer,South,1706.75,20,500,Email,Seniors,High,Medium,2.0,No,0
+Beauty,Winter,East,48.68,50,10000,Email,Teens,High,High,1.7,No,0
+Electronics,Summer,East,424.22,30,50000,Influencer,Seniors,High,Low,3.1,Yes,0
+Toys,Spring,North,52.95,15,50000,TV,Adults,Medium,Low,2.2,No,0
+Furniture,Summer,North,43.87,50,5000,Influencer,Adults,Medium,High,3.5,Yes,1
+Books,Spring,East,1702.45,50,2000,TV,Adults,High,Medium,1.5,Yes,1
+Toys,Summer,West,1709.48,5,500,Email,Adults,Medium,High,3.6,No,0
+Sports,Spring,South,15.35,25,5000,Email,Adults,High,Medium,2.1,No,0
+Furniture,Spring,North,14.26,15,10000,Influencer,Teens,Medium,Low,1.0,Yes,1
+Beauty,Spring,North,1703.34,40,20000,None,Adults,Low,Medium,1.5,No,0
+Beauty,Winter,East,41.0,30,2000,Influencer,Kids,Low,High,4.7,No,0
+Furniture,Summer,South,45.22,30,20000,TV,Kids,High,High,4.5,Yes,1
+Beauty,Summer,East,15.06,50,500,Influencer,Teens,Medium,Low,1.9,Yes,0
+Food,Summer,South,18.49,20,20000,Social Media,Seniors,Medium,Medium,4.1,Yes,1
+Furniture,Spring,South,26.04,25,20000,TV,Kids,Low,Medium,3.4,Yes,1
+Toys,Summer,South,413.9,0,500,TV,Seniors,Low,Medium,4.9,No,0
+Furniture,Summer,North,420.87,25,500,None,Teens,High,Low,2.5,No,1
+Books,Spring,West,24.08,5,2000,Email,Seniors,Low,Medium,3.7,Yes,1
+Beauty,Autumn,East,46.12,25,20000,TV,Seniors,High,High,1.3,Yes,1
+Food,Spring,West,16.3,50,5000,Email,Seniors,Low,Medium,2.6,Yes,0
+Food,Summer,East,418.49,40,500,Influencer,Seniors,Low,Low,4.9,No,0
+Sports,Spring,South,41.91,50,10000,Social Media,Teens,Medium,Medium,3.2,Yes,1
+Toys,Autumn,North,413.28,40,20000,None,Kids,Low,Medium,2.2,No,0
+Clothing,Spring,West,44.81,10,500,Email,Adults,Low,High,1.5,Yes,0
+Clothing,Summer,North,413.26,40,5000,TV,Seniors,High,Medium,3.8,Yes,0
+Furniture,Autumn,East,39.55,25,50000,Email,Kids,Low,High,3.6,Yes,0
+Sports,Winter,North,35.52,25,2000,TV,Kids,High,High,2.5,No,1
+Electronics,Summer,North,47.95,25,20000,Email,Teens,Low,Low,4.8,No,1
+Furniture,Autumn,West,46.01,10,50000,TV,Kids,Low,High,1.1,No,0
+Sports,Autumn,South,1696.26,0,500,Influencer,Teens,High,High,2.2,Yes,0
+Toys,Winter,North,409.55,15,500,TV,Seniors,Medium,Low,4.7,No,0
+Toys,Spring,South,414.18,25,10000,TV,Seniors,High,High,2.3,No,0
+Toys,Spring,East,1707.08,5,10000,Social Media,Adults,High,Low,2.0,Yes,1
+Toys,Summer,North,35.56,30,20000,TV,Adults,High,Medium,3.1,Yes,1
+Toys,Winter,West,42.71,30,50000,Social Media,Adults,Medium,Low,4.3,No,1
+Sports,Spring,East,415.98,15,50000,None,Kids,Low,High,1.4,No,1
+Sports,Winter,East,1703.11,15,500,Social Media,Seniors,High,Low,4.8,No,1
+Food,Spring,West,44.43,0,20000,Influencer,Teens,High,High,4.2,No,1
+Books,Autumn,North,40.72,5,500,Social Media,Adults,Medium,Medium,1.7,Yes,0
+Clothing,Spring,North,47.7,50,10000,None,Teens,High,Low,3.8,Yes,1
+Beauty,Winter,East,14.07,40,5000,Influencer,Teens,Low,Medium,2.5,Yes,1
+Toys,Autumn,North,1699.16,40,1000,Email,Adults,Medium,High,2.6,No,1
+Electronics,Autumn,South,43.3,50,1000,Email,Seniors,Low,High,4.1,No,0
+Beauty,Autumn,West,10.9,30,500,Social Media,Adults,Low,Medium,4.9,Yes,1
+Sports,Winter,South,1694.34,50,50000,Social Media,Teens,Medium,Low,1.5,Yes,1
+Electronics,Summer,North,48.57,5,10000,None,Adults,High,Low,2.7,No,0
+Electronics,Summer,East,408.37,25,2000,None,Teens,Low,High,2.9,No,0
+Electronics,Summer,West,11.4,10,2000,TV,Teens,Low,Medium,2.5,Yes,1
+Food,Winter,North,14.01,25,1000,None,Adults,Low,Medium,2.5,Yes,0
+Sports,Autumn,North,38.87,10,5000,TV,Kids,Low,Low,1.2,Yes,1
+Electronics,Summer,East,42.44,40,1000,Influencer,Adults,Medium,Low,3.7,No,1
+Toys,Winter,East,12.6,15,500,Social Media,Kids,Medium,Low,2.7,No,0
+Furniture,Summer,South,415.78,25,5000,Influencer,Teens,Low,Medium,1.8,No,0
+Electronics,Spring,West,416.52,50,2000,None,Teens,High,Low,4.3,No,1
+Food,Summer,West,1698.49,5,50000,Influencer,Kids,Low,Low,4.2,No,1
+Beauty,Summer,East,40.06,5,10000,Influencer,Teens,High,High,2.9,No,0
+Sports,Autumn,South,410.67,30,10000,Influencer,Kids,Low,Low,2.2,Yes,0
+Books,Winter,West,1704.04,5,500,None,Kids,High,Low,3.6,Yes,0
+Food,Autumn,East,418.7,5,1000,Influencer,Teens,Low,Medium,2.2,No,1
+Electronics,Autumn,North,48.86,15,500,TV,Seniors,High,Medium,1.9,Yes,1
+Sports,Autumn,West,1717.36,50,10000,None,Kids,Low,High,3.9,No,0
+Furniture,Autumn,South,1693.52,40,2000,Influencer,Adults,Low,Low,1.2,Yes,1
+Electronics,Autumn,South,1700.25,5,10000,None,Adults,High,High,1.4,No,0
+Food,Summer,South,422.36,40,5000,Email,Teens,Medium,Medium,1.0,Yes,1
+Clothing,Autumn,North,34.15,15,50000,TV,Seniors,High,High,1.6,Yes,1
+Toys,Autumn,West,1713.82,5,50000,Influencer,Teens,Medium,Medium,1.3,No,0
+Books,Winter,West,18.81,30,20000,Email,Seniors,Low,High,5.0,No,0
+Beauty,Spring,North,44.08,25,10000,Email,Kids,High,High,2.2,Yes,1
+Food,Summer,West,11.67,20,10000,None,Kids,High,Low,1.6,Yes,1
+Sports,Summer,North,15.81,0,50000,Email,Kids,High,High,2.0,No,1
+Books,Summer,North,1713.6,5,20000,TV,Kids,Medium,Low,4.7,Yes,1
+Books,Autumn,North,1704.63,40,5000,TV,Adults,Medium,Low,3.1,No,1
+Books,Autumn,South,411.06,0,1000,Social Media,Adults,Low,Low,2.5,No,1
+Electronics,Autumn,West,415.31,10,10000,TV,Teens,Medium,Low,4.5,Yes,1
+Toys,Winter,North,412.33,5,50000,Email,Seniors,Medium,High,2.6,No,0
+Electronics,Spring,West,44.88,20,500,TV,Kids,Low,Medium,2.3,Yes,0
+Sports,Autumn,South,409.04,15,10000,None,Kids,High,Medium,1.8,Yes,1
+Electronics,Spring,North,17.68,30,500,Social Media,Seniors,High,Medium,2.5,No,1
+Clothing,Winter,East,410.08,20,5000,Email,Seniors,Low,High,2.3,Yes,0
+Toys,Summer,South,1695.85,40,10000,Social Media,Teens,High,Low,3.7,No,1
+Toys,Autumn,East,415.7,15,50000,Email,Seniors,Medium,Medium,2.2,No,1
+Sports,Spring,West,36.99,25,5000,None,Kids,Low,High,3.3,No,0
+Beauty,Spring,West,42.33,15,5000,Social Media,Kids,Low,Low,1.3,Yes,0
+Clothing,Autumn,South,22.7,5,1000,Influencer,Kids,Low,Medium,1.8,No,0
+Food,Summer,West,35.67,0,10000,Email,Kids,High,Low,2.6,Yes,0
+Electronics,Summer,East,416.31,0,500,Influencer,Kids,Low,Medium,4.7,No,1
+Furniture,Summer,North,1703.37,40,500,Social Media,Teens,Low,Medium,2.5,No,0
+Electronics,Winter,North,38.32,15,10000,Influencer,Kids,Low,Medium,3.7,No,1
+Books,Spring,North,28.18,20,20000,Influencer,Teens,High,Low,2.0,Yes,1
+Electronics,Spring,South,413.28,40,1000,Social Media,Kids,Medium,High,1.5,Yes,0
+Food,Spring,West,15.23,30,1000,None,Adults,Low,Low,1.2,No,0
+Electronics,Winter,East,39.25,40,1000,Influencer,Adults,Medium,Medium,2.2,No,0
+Clothing,Spring,West,47.56,40,500,Influencer,Adults,High,Low,1.6,Yes,0
+Clothing,Winter,West,15.01,25,5000,None,Adults,High,High,1.7,Yes,0
+Toys,Summer,West,417.07,5,50000,Influencer,Teens,High,Low,4.0,Yes,0
+Sports,Autumn,North,43.14,25,20000,Influencer,Teens,High,High,1.1,No,0
+Beauty,Spring,East,1710.45,0,1000,Influencer,Seniors,Medium,High,3.2,Yes,1
+Furniture,Spring,East,37.94,0,500,TV,Kids,Low,Low,2.5,No,0
+Books,Summer,West,408.77,10,500,None,Adults,High,Medium,3.0,Yes,1
+Electronics,Autumn,North,41.75,10,5000,Influencer,Teens,High,High,3.3,No,1
+Electronics,Winter,North,17.08,20,10000,None,Kids,Medium,Low,2.3,No,0
+Food,Autumn,East,41.38,0,10000,Email,Kids,Medium,High,2.2,No,0
+Sports,Summer,North,56.31,25,50000,Email,Teens,High,Medium,3.9,Yes,1
+Clothing,Summer,North,423.6,30,50000,Influencer,Adults,Low,Low,4.5,Yes,0
+Furniture,Autumn,North,19.56,10,1000,None,Seniors,Low,Low,1.8,Yes,0
+Toys,Winter,South,415.37,15,50000,None,Kids,High,Low,1.4,No,1
+Clothing,Winter,West,41.97,10,1000,None,Seniors,Medium,Medium,4.6,No,1
+Books,Spring,East,1699.62,0,20000,TV,Adults,High,High,2.4,Yes,1
+Sports,Winter,East,42.24,40,50000,Email,Adults,High,Low,3.2,No,1
+Books,Autumn,South,417.14,5,5000,None,Seniors,Medium,High,2.4,No,0
+Beauty,Summer,West,1711.4,0,1000,None,Adults,High,High,1.5,No,0
+Toys,Spring,East,418.26,40,5000,TV,Kids,High,Medium,3.4,Yes,1
+Beauty,Spring,North,405.74,30,500,TV,Seniors,High,Low,3.1,No,0
+Food,Summer,East,16.62,30,1000,None,Adults,Medium,High,1.8,Yes,0
+Books,Winter,North,1697.52,15,500,Social Media,Seniors,Low,Low,2.8,Yes,1
+Food,Summer,South,49.0,50,2000,None,Kids,Low,Low,4.2,Yes,0
+Electronics,Winter,North,411.22,25,5000,None,Adults,Medium,Medium,3.4,Yes,1
+Beauty,Summer,East,42.92,5,2000,TV,Kids,Low,Low,1.4,Yes,1
+Sports,Autumn,East,20.47,0,1000,TV,Adults,High,Low,3.2,No,1
+Books,Winter,East,31.9,0,500,None,Teens,Low,High,3.8,Yes,0
+Furniture,Autumn,South,1706.21,50,1000,None,Adults,High,Medium,4.2,Yes,1
+Toys,Spring,South,16.88,15,2000,None,Seniors,Low,Low,3.5,Yes,1
+Clothing,Summer,West,11.86,20,1000,TV,Adults,Medium,High,1.6,No,0
+Sports,Spring,East,50.45,10,20000,None,Kids,Low,Medium,3.8,No,0
+Sports,Spring,North,17.16,15,10000,None,Kids,Low,Medium,3.7,No,0
+Food,Spring,South,26.35,40,2000,Influencer,Adults,Low,High,1.1,No,1
+Beauty,Spring,East,418.81,15,1000,Social Media,Seniors,Medium,High,2.6,Yes,0
+Books,Summer,East,15.75,50,500,Email,Teens,Low,High,2.3,Yes,1
+Books,Spring,South,406.32,50,1000,Social Media,Seniors,Medium,High,3.7,No,0
+Electronics,Summer,West,19.43,25,500,Influencer,Teens,High,High,1.9,No,0
+Electronics,Summer,South,14.99,5,10000,Email,Kids,Low,Low,3.4,No,1
+Toys,Autumn,South,1705.06,30,1000,None,Seniors,Medium,Low,4.7,No,1
+Food,Winter,North,1710.11,50,50000,Influencer,Teens,Medium,Medium,4.2,Yes,1
+Sports,Winter,North,405.02,25,50000,None,Adults,Low,Low,4.7,No,1
+Books,Summer,West,19.39,10,10000,TV,Kids,High,Low,4.9,No,1
+Furniture,Autumn,East,46.95,30,2000,Influencer,Adults,Medium,Low,1.0,No,1
+Food,Summer,South,1708.91,20,500,TV,Kids,Low,High,3.5,No,1
+Toys,Summer,West,36.34,0,50000,Influencer,Seniors,High,Medium,2.7,No,1
+Toys,Summer,North,1706.96,10,20000,Influencer,Seniors,Medium,Medium,4.4,No,1
+Food,Autumn,South,1710.89,20,2000,TV,Kids,Medium,Medium,2.0,No,0
+Toys,Winter,East,19.78,30,500,Email,Kids,High,Medium,4.9,Yes,1
+Food,Autumn,North,1704.29,10,10000,Social Media,Kids,High,Low,3.5,Yes,1
+Clothing,Spring,North,48.85,25,50000,None,Seniors,Low,Low,4.2,Yes,1
+Food,Autumn,North,1701.4,20,5000,Influencer,Teens,Low,High,1.3,Yes,0
+Beauty,Autumn,West,405.64,0,1000,None,Adults,Medium,Medium,1.7,Yes,0
+Food,Autumn,East,17.07,25,10000,TV,Adults,High,Low,4.0,Yes,1
+Toys,Autumn,South,20.74,40,500,None,Seniors,High,Low,1.1,No,1
+Books,Winter,West,418.48,0,500,TV,Adults,High,High,4.3,No,1
+Beauty,Spring,West,415.94,5,500,None,Kids,Medium,High,1.1,Yes,0
+Toys,Winter,West,417.47,15,500,Social Media,Teens,High,High,3.6,No,0
+Electronics,Winter,North,1710.09,5,1000,Social Media,Adults,High,Low,2.5,Yes,1
+Electronics,Autumn,East,16.37,50,2000,Social Media,Teens,Medium,Low,3.4,No,1
+Books,Summer,West,412.55,40,20000,Social Media,Kids,Low,High,3.8,No,0
+Books,Summer,South,1711.3,40,5000,Social Media,Adults,Low,Medium,2.4,No,0
+Beauty,Winter,East,407.24,15,1000,Social Media,Seniors,Medium,High,1.4,No,0
+Clothing,Winter,South,45.3,20,500,TV,Teens,High,High,1.3,No,0
+Books,Autumn,East,39.57,15,1000,Influencer,Kids,Medium,High,3.4,No,1
+Electronics,Winter,South,23.57,50,10000,None,Teens,Low,High,3.1,Yes,0
+Food,Autumn,North,1704.78,5,20000,Social Media,Adults,Low,Low,4.0,Yes,1
+Toys,Summer,West,43.19,40,500,TV,Adults,Medium,Medium,3.0,No,0
+Electronics,Summer,South,51.8,5,5000,TV,Seniors,Medium,High,2.7,Yes,0
+Electronics,Spring,East,1699.49,0,500,TV,Kids,Low,Medium,2.6,No,0
+Clothing,Summer,West,414.37,10,20000,Influencer,Kids,Medium,Medium,1.1,Yes,1
+Beauty,Winter,West,1703.97,50,5000,None,Seniors,Low,Medium,2.3,No,0
+Beauty,Summer,East,415.95,10,20000,Influencer,Seniors,Medium,High,4.9,Yes,1
+Sports,Autumn,South,52.8,50,5000,Email,Kids,Medium,Low,4.5,No,1
+Clothing,Summer,North,40.13,30,2000,TV,Teens,Medium,High,2.3,Yes,0
+Food,Spring,North,37.17,0,50000,Email,Teens,Low,Medium,3.4,No,0
+Beauty,Summer,South,14.02,20,2000,Social Media,Seniors,Medium,Medium,4.4,Yes,1
+Toys,Autumn,West,16.9,50,1000,Social Media,Teens,Low,Low,2.8,No,0
+Books,Autumn,West,18.39,10,1000,Influencer,Kids,Low,High,1.1,No,1
+Clothing,Winter,West,1705.44,50,5000,None,Adults,Medium,Medium,1.3,No,0
+Books,Summer,West,52.17,20,500,Email,Adults,Medium,Low,3.0,Yes,1
+Electronics,Autumn,South,51.28,50,50000,None,Teens,Low,Medium,4.9,Yes,0
+Toys,Spring,West,1711.38,25,10000,Influencer,Seniors,Low,Low,3.8,Yes,1
+Toys,Winter,East,30.64,50,10000,Social Media,Seniors,High,Low,1.3,No,1
+Electronics,Spring,West,1708.99,30,500,None,Seniors,Low,High,1.8,Yes,0
+Clothing,Summer,North,23.61,30,500,None,Seniors,High,Medium,4.1,No,1
+Electronics,Summer,West,47.18,40,2000,Social Media,Seniors,High,High,4.4,Yes,1
+Books,Summer,South,416.49,30,10000,Email,Teens,High,Medium,3.5,Yes,1
+Sports,Winter,North,20.04,50,5000,Social Media,Adults,Medium,High,3.6,Yes,1
+Toys,Autumn,South,41.17,50,20000,None,Adults,Medium,Medium,1.1,Yes,1
+Furniture,Winter,South,36.92,25,1000,Email,Teens,Low,High,4.3,No,0
+Furniture,Spring,North,412.63,30,20000,Email,Seniors,High,Low,4.2,Yes,1
+Books,Winter,South,45.98,5,2000,Social Media,Teens,Medium,Medium,2.0,Yes,0
+Food,Spring,South,43.52,50,10000,None,Adults,Medium,Medium,3.8,No,0
+Beauty,Winter,West,12.74,0,50000,Influencer,Kids,Medium,Low,1.9,No,1
+Electronics,Autumn,East,17.24,0,500,None,Teens,Medium,High,1.2,Yes,0
+Electronics,Spring,South,412.2,10,50000,TV,Seniors,Medium,Medium,1.8,Yes,0
+Food,Summer,South,412.97,25,50000,Influencer,Adults,High,Medium,1.7,No,1
+Food,Summer,South,45.61,20,10000,Email,Adults,High,High,2.4,No,1
+Books,Winter,West,21.6,5,5000,Influencer,Adults,High,Low,2.7,No,1
+Books,Summer,East,410.79,50,2000,Email,Adults,High,High,3.0,Yes,1
+Food,Spring,North,418.19,15,500,Email,Seniors,Low,High,2.9,Yes,0
+Toys,Summer,West,1710.53,15,20000,Influencer,Kids,High,High,2.1,Yes,1
+Books,Autumn,West,414.89,20,5000,Email,Adults,Medium,Medium,1.1,No,0
+Sports,Autumn,East,46.48,40,20000,Email,Teens,High,Low,3.4,No,1
+Books,Winter,East,22.99,15,1000,TV,Kids,Low,Low,2.6,No,1
+Electronics,Spring,West,407.8,20,2000,None,Adults,Medium,High,2.2,Yes,0
+Books,Autumn,North,1710.14,15,5000,None,Kids,High,Medium,4.5,No,1
+Toys,Autumn,West,14.12,25,5000,TV,Teens,High,High,4.0,Yes,0
+Food,Spring,East,409.82,10,20000,Influencer,Adults,High,Medium,4.4,No,1
+Electronics,Summer,North,1705.85,40,500,Social Media,Teens,Medium,Medium,3.0,Yes,0
+Books,Summer,East,402.57,25,1000,Social Media,Seniors,Medium,Medium,1.5,Yes,1
+Toys,Winter,North,18.95,20,20000,Social Media,Adults,Low,Medium,3.8,No,1
+Sports,Summer,South,22.98,5,5000,TV,Adults,Medium,Low,1.8,Yes,1
+Books,Spring,East,9.84,30,2000,TV,Adults,Medium,Medium,2.8,No,0
+Toys,Autumn,East,48.6,5,5000,Email,Adults,High,Medium,1.3,Yes,0
+Sports,Summer,West,409.79,0,10000,Social Media,Seniors,Medium,High,4.3,No,0
+Food,Winter,East,44.19,30,2000,Influencer,Adults,High,High,1.5,No,0
+Books,Summer,East,15.3,20,2000,Influencer,Kids,High,Low,4.6,Yes,1
+Sports,Spring,South,1707.73,0,5000,Social Media,Adults,Medium,High,4.5,No,0
+Electronics,Winter,East,418.41,15,500,Social Media,Seniors,Low,Medium,2.9,Yes,0
+Food,Summer,South,46.39,15,2000,Social Media,Adults,Low,High,4.0,No,1
+Electronics,Winter,South,413.27,30,10000,TV,Kids,Medium,Low,3.5,No,1
+Furniture,Spring,South,1702.49,50,20000,TV,Seniors,Low,High,4.2,No,0
+Clothing,Autumn,South,42.81,5,500,TV,Seniors,High,High,2.7,No,0
+Books,Spring,North,21.35,0,500,None,Kids,High,Low,4.1,Yes,0
+Sports,Spring,West,46.61,5,500,Influencer,Kids,Medium,Low,2.8,No,0
+Clothing,Spring,North,416.04,30,2000,Influencer,Kids,Low,Medium,4.8,No,1
+Clothing,Spring,East,406.87,25,500,Email,Kids,Low,High,2.9,Yes,0
+Sports,Autumn,North,413.17,15,5000,TV,Kids,High,Medium,2.9,Yes,1
+Food,Autumn,North,410.12,0,500,None,Seniors,Medium,High,4.1,Yes,0
+Books,Winter,East,21.39,0,10000,None,Seniors,Low,High,4.3,Yes,1
+Furniture,Summer,East,39.33,20,1000,Influencer,Adults,Medium,Medium,3.2,Yes,1
+Electronics,Autumn,East,20.33,0,10000,TV,Adults,Low,High,1.7,Yes,0
+Toys,Autumn,North,16.66,30,2000,Email,Teens,High,High,2.9,No,1
+Electronics,Summer,North,8.67,0,500,TV,Adults,High,High,4.9,Yes,1
+Toys,Autumn,East,417.94,0,500,Social Media,Adults,Medium,Low,4.0,No,0
+Electronics,Spring,West,413.16,5,5000,TV,Kids,High,Medium,4.2,Yes,1
+Sports,Spring,West,419.67,10,20000,Social Media,Kids,Low,Low,1.1,No,1
+Furniture,Summer,South,34.83,0,500,Social Media,Adults,High,Medium,2.9,No,0
+Books,Winter,East,1703.41,50,50000,Email,Teens,Medium,Medium,3.6,No,0
+Toys,Winter,South,412.2,40,10000,Influencer,Kids,Medium,High,4.3,Yes,1
+Books,Summer,West,44.51,20,2000,TV,Adults,Medium,Medium,1.2,Yes,1
+Books,Summer,South,406.66,5,1000,Social Media,Adults,Low,Low,4.4,Yes,0
+Books,Spring,East,416.01,20,500,TV,Seniors,Low,Low,3.2,Yes,0
+Beauty,Winter,East,27.63,25,1000,Influencer,Teens,Low,Low,1.8,No,0
+Food,Autumn,East,20.44,0,500,Influencer,Seniors,Low,Medium,2.3,Yes,0
+Electronics,Spring,North,18.53,15,2000,None,Teens,Low,Low,2.1,No,1
+Books,Summer,South,36.27,50,20000,Influencer,Kids,High,Medium,3.1,No,1
+Electronics,Winter,West,1701.0,5,10000,Email,Teens,Low,Low,1.2,Yes,1
+Books,Autumn,West,1704.59,20,2000,Social Media,Adults,Low,Low,1.6,Yes,1
+Toys,Autumn,West,40.51,0,1000,None,Adults,High,Medium,4.3,Yes,0
+Food,Spring,North,418.42,15,500,Email,Teens,Low,Low,1.5,No,0
+Food,Winter,North,45.82,15,1000,TV,Teens,Medium,High,1.9,Yes,1
+Sports,Winter,East,426.75,25,10000,Social Media,Teens,Low,Medium,2.8,No,1
+Beauty,Summer,West,38.25,50,50000,Influencer,Seniors,Low,Medium,3.1,Yes,1
+Sports,Winter,North,43.32,10,2000,Social Media,Teens,Medium,Medium,4.1,No,0
+Sports,Winter,East,36.24,50,1000,TV,Kids,Medium,High,2.8,Yes,0
+Sports,Spring,West,1693.76,25,1000,None,Seniors,Medium,Medium,4.2,Yes,0
+Sports,Winter,South,21.68,30,10000,None,Seniors,Medium,Low,3.5,No,1
+Sports,Autumn,East,45.64,5,50000,None,Teens,Low,Low,1.5,Yes,0
+Furniture,Spring,North,1700.59,25,500,Influencer,Kids,Medium,Low,1.6,Yes,1
+Food,Spring,North,18.53,25,50000,Email,Seniors,Medium,Medium,2.7,Yes,1
+Sports,Summer,East,14.92,5,1000,Email,Adults,High,Low,2.6,Yes,1
+Books,Winter,East,40.68,5,10000,Social Media,Seniors,Medium,Medium,4.0,Yes,1
+Food,Summer,North,411.68,5,500,Influencer,Teens,Medium,Low,3.3,Yes,0
+Food,Autumn,South,408.8,0,50000,None,Kids,High,High,2.6,Yes,0
+Clothing,Spring,West,409.7,20,50000,None,Teens,High,High,1.7,No,1
+Furniture,Spring,South,39.71,40,50000,TV,Adults,Low,High,1.9,No,1
+Sports,Spring,East,415.4,5,20000,TV,Adults,High,High,3.3,Yes,1
+Electronics,Autumn,South,1691.0,20,500,None,Adults,Low,Medium,2.7,Yes,0
+Toys,Autumn,North,1703.73,40,50000,None,Teens,High,Low,3.1,Yes,1
+Beauty,Summer,East,1699.43,20,20000,Influencer,Seniors,High,High,1.7,No,0
+Books,Summer,West,1699.61,5,2000,Email,Teens,Low,Medium,3.7,No,0
+Electronics,Summer,North,15.44,10,10000,TV,Kids,High,High,4.4,Yes,1
+Furniture,Winter,North,1704.8,25,50000,Email,Seniors,Low,High,2.0,No,0
+Toys,Spring,West,412.21,20,500,Influencer,Adults,High,Medium,3.0,Yes,1
+Furniture,Spring,West,37.83,15,20000,None,Teens,Medium,Medium,4.9,Yes,1
+Books,Summer,South,416.89,15,20000,Email,Adults,High,Low,2.3,Yes,1
+Food,Spring,East,1700.35,20,2000,None,Adults,Low,Low,3.4,Yes,0
+Toys,Summer,West,14.4,5,5000,None,Kids,High,High,1.4,No,0
+Food,Winter,West,1706.29,50,10000,Social Media,Seniors,Low,High,3.4,No,0
+Books,Winter,East,44.76,5,5000,Email,Kids,Low,Low,1.4,Yes,1
+Electronics,Autumn,West,410.23,5,500,Email,Kids,Medium,Low,4.8,No,1
+Books,Winter,West,28.47,50,10000,None,Kids,Medium,Medium,3.9,No,0
+Electronics,Summer,South,38.73,10,2000,Influencer,Adults,Low,Low,4.2,Yes,1
+Toys,Winter,North,43.96,30,500,Social Media,Kids,High,Low,3.8,No,1
+Toys,Autumn,North,416.73,15,10000,None,Kids,Low,High,3.4,Yes,0
+Sports,Spring,North,1704.47,25,10000,TV,Seniors,Low,Low,2.8,Yes,1
+Furniture,Summer,North,40.76,15,5000,TV,Seniors,High,High,4.4,Yes,1
+Sports,Spring,West,424.75,30,500,Social Media,Kids,High,Low,4.8,Yes,1
+Furniture,Autumn,East,16.21,0,2000,Influencer,Seniors,High,Medium,3.0,No,1
+Sports,Autumn,East,416.35,10,2000,None,Seniors,High,Low,4.7,Yes,0
+Food,Autumn,South,11.39,10,500,Email,Kids,Low,Low,3.3,No,1
+Toys,Spring,South,407.84,0,500,Social Media,Adults,Low,Low,3.2,Yes,1
+Electronics,Spring,West,1708.1,25,20000,Influencer,Kids,Medium,High,2.8,Yes,0
+Furniture,Spring,East,48.38,50,1000,Email,Seniors,Low,Medium,1.8,No,0
+Books,Spring,East,1702.92,40,5000,TV,Adults,High,Low,1.0,Yes,0
+Furniture,Autumn,North,404.04,30,500,TV,Teens,Medium,High,2.0,No,0
+Electronics,Autumn,West,42.32,40,500,Email,Adults,High,Medium,3.0,No,0
+Sports,Summer,West,19.02,25,1000,Social Media,Seniors,Low,High,2.5,Yes,0
+Furniture,Summer,North,413.78,50,1000,TV,Adults,Medium,High,2.8,Yes,0
+Beauty,Spring,West,40.34,10,10000,None,Kids,High,Medium,4.9,Yes,1
+Food,Winter,West,17.3,50,50000,Email,Teens,Medium,Low,2.4,Yes,1
+Toys,Winter,South,14.32,15,2000,Email,Teens,Medium,High,2.8,Yes,0
+Electronics,Autumn,East,1699.31,30,5000,TV,Teens,Low,High,1.5,Yes,1
+Toys,Autumn,West,417.06,50,10000,Social Media,Seniors,High,Low,1.2,No,1
+Beauty,Autumn,South,18.56,5,500,None,Seniors,Medium,Low,4.1,No,0
+Furniture,Summer,East,42.4,5,1000,Social Media,Teens,Medium,Medium,3.3,Yes,1
+Furniture,Summer,North,15.53,50,20000,Influencer,Adults,High,Medium,4.0,No,1
+Books,Autumn,South,17.17,10,2000,Influencer,Teens,Medium,Medium,1.6,No,1
+Beauty,Autumn,South,1705.67,50,10000,TV,Adults,Medium,Low,3.3,Yes,0
+Electronics,Autumn,East,1713.51,20,20000,TV,Adults,Medium,High,2.0,Yes,1
+Books,Winter,North,46.43,25,2000,TV,Seniors,High,High,1.9,No,0
+Food,Summer,South,1701.54,5,50000,Influencer,Adults,High,Medium,1.0,Yes,1
+Books,Winter,West,14.79,40,50000,Social Media,Teens,High,Low,1.5,No,1
+Clothing,Winter,West,14.01,50,20000,Social Media,Seniors,High,High,2.2,Yes,1
+Electronics,Autumn,West,1703.86,5,1000,TV,Kids,Low,Medium,1.5,No,0
+Clothing,Autumn,North,14.01,25,10000,None,Kids,Medium,High,4.9,No,1
+Beauty,Spring,South,20.44,25,10000,Social Media,Seniors,High,High,2.2,No,0
+Sports,Spring,West,29.94,40,50000,Influencer,Teens,Medium,Low,1.5,No,1
+Clothing,Winter,North,1707.54,20,2000,Email,Kids,Medium,Low,1.8,Yes,1
+Food,Summer,West,19.45,50,20000,Email,Kids,Low,High,3.4,Yes,1
+Books,Autumn,East,1711.18,0,1000,Email,Adults,High,Medium,1.3,No,1
+Sports,Autumn,South,47.54,50,500,None,Adults,High,Low,4.4,No,0
+Books,Winter,South,1701.45,30,10000,TV,Teens,Medium,High,4.8,Yes,0
+Clothing,Spring,North,21.89,15,500,Influencer,Seniors,High,Low,2.0,Yes,1
+Books,Summer,North,1704.03,10,1000,None,Teens,Medium,Low,2.8,No,0
+Beauty,Spring,South,8.4,25,50000,Influencer,Seniors,Medium,Low,1.1,No,1
+Sports,Spring,West,18.86,0,10000,Influencer,Kids,Low,High,3.6,No,0
+Beauty,Spring,West,14.95,10,10000,TV,Adults,Low,Medium,2.7,No,0
+Clothing,Spring,East,43.16,5,20000,Email,Teens,Low,Medium,2.1,No,1
+Beauty,Autumn,West,1713.12,50,500,TV,Teens,Medium,Medium,1.8,Yes,0
+Food,Autumn,North,44.28,10,50000,None,Seniors,High,Low,3.6,No,1
+Clothing,Spring,North,1699.78,5,20000,None,Seniors,Low,High,2.7,Yes,0
+Clothing,Summer,West,47.98,15,5000,None,Teens,High,Low,1.7,Yes,1
+Clothing,Winter,North,415.1,5,500,TV,Seniors,Low,Medium,3.8,Yes,1
+Electronics,Summer,South,12.39,0,500,Influencer,Teens,Low,Medium,3.3,No,0
+Books,Summer,South,10.04,25,5000,Influencer,Teens,Medium,High,4.4,Yes,1
+Electronics,Summer,West,38.27,40,1000,Social Media,Teens,Low,Low,1.5,Yes,0
+Electronics,Spring,South,417.47,5,1000,None,Kids,Low,Medium,4.1,Yes,1
+Food,Autumn,South,16.56,50,10000,Influencer,Seniors,Medium,High,3.7,Yes,0
+Sports,Summer,East,1705.27,10,2000,Social Media,Adults,High,Low,1.5,No,1
+Books,Spring,East,36.46,40,20000,Influencer,Adults,Low,Low,3.8,No,0
+Beauty,Summer,South,22.38,40,2000,None,Seniors,Medium,Medium,2.8,Yes,0
+Furniture,Summer,West,7.99,10,10000,Email,Teens,Low,Medium,4.8,Yes,0
+Clothing,Spring,East,39.88,10,2000,None,Adults,Medium,Low,1.6,No,0
+Beauty,Autumn,North,45.25,25,500,TV,Adults,High,Low,3.6,No,0
+Clothing,Autumn,North,1699.25,0,500,Influencer,Seniors,High,Medium,2.5,No,0
+Food,Winter,North,1707.94,15,5000,Influencer,Adults,Medium,Low,4.8,Yes,1
+Clothing,Spring,West,13.72,0,5000,TV,Teens,Medium,Medium,2.3,No,0
+Electronics,Winter,South,11.94,10,10000,TV,Seniors,Medium,Low,4.8,Yes,1
+Books,Winter,North,49.59,50,10000,Email,Teens,High,Medium,4.6,Yes,0
+Furniture,Winter,West,18.84,20,50000,Influencer,Adults,Low,High,2.1,No,1
+Toys,Autumn,East,20.66,20,10000,Influencer,Adults,High,Medium,4.2,Yes,1
+Clothing,Spring,South,48.25,15,500,Email,Teens,Medium,Medium,5.0,No,0
+Beauty,Winter,East,4.97,10,2000,Social Media,Kids,Medium,High,2.0,Yes,0
+Electronics,Spring,West,21.24,20,20000,Email,Adults,High,Low,2.7,No,1
+Toys,Spring,North,409.48,15,50000,None,Kids,Medium,High,3.1,Yes,1
+Furniture,Autumn,North,1701.72,40,50000,Influencer,Adults,High,Medium,2.2,Yes,1
+Toys,Winter,West,45.34,15,50000,TV,Kids,Medium,Low,1.1,No,1
+Electronics,Winter,North,411.47,40,10000,None,Kids,Low,High,1.9,No,0
+Books,Spring,South,1707.84,25,10000,Influencer,Kids,Low,Low,2.1,No,0
+Books,Summer,West,1704.66,20,500,Email,Teens,Medium,Low,2.8,No,0
+Sports,Autumn,East,1705.71,15,20000,None,Kids,High,High,1.7,Yes,1
+Books,Autumn,West,410.84,15,500,Influencer,Kids,Low,Low,4.5,No,0
+Sports,Autumn,South,407.96,15,20000,Social Media,Kids,High,High,3.8,No,1
+Toys,Autumn,South,1701.17,50,500,Social Media,Adults,Medium,Medium,1.3,Yes,1
+Food,Winter,West,17.55,15,2000,TV,Kids,High,Low,3.6,No,1
+Beauty,Winter,West,27.25,50,10000,Influencer,Adults,Low,Medium,3.6,No,0
+Beauty,Summer,North,420.65,25,1000,Social Media,Kids,High,Medium,4.8,Yes,1
+Toys,Autumn,South,410.02,30,1000,Email,Kids,High,Low,1.0,No,1
+Clothing,Autumn,West,413.59,10,10000,Influencer,Teens,Medium,High,2.0,No,0
+Clothing,Spring,West,1703.43,40,50000,Email,Adults,Medium,Low,4.7,No,1
+Books,Winter,South,18.72,10,10000,Email,Kids,Medium,Medium,4.7,No,1
+Beauty,Autumn,West,414.58,0,10000,Social Media,Adults,Low,Medium,3.9,No,0
+Beauty,Summer,North,415.92,20,10000,Influencer,Adults,Low,High,4.1,No,1
+Sports,Summer,South,28.65,5,50000,None,Seniors,Medium,Low,1.4,Yes,1
+Food,Winter,North,1706.7,25,20000,Social Media,Teens,Medium,Medium,3.1,No,0
+Electronics,Summer,North,41.16,50,2000,Social Media,Teens,Low,Medium,1.9,Yes,0
+Clothing,Summer,North,14.54,0,1000,Influencer,Teens,Low,Medium,1.7,Yes,0
+Beauty,Winter,North,47.13,15,5000,Influencer,Seniors,Low,High,4.2,Yes,0
+Sports,Autumn,South,50.49,0,1000,Email,Seniors,Low,Medium,1.5,Yes,0
+Furniture,Autumn,North,46.6,0,1000,Influencer,Teens,Medium,Medium,2.9,No,0
+Sports,Summer,North,1702.27,40,50000,Email,Seniors,Low,Low,4.8,No,1
+Clothing,Summer,West,12.69,5,500,Social Media,Seniors,Medium,Low,1.7,No,0
+Clothing,Autumn,South,28.12,0,10000,TV,Seniors,High,Medium,4.9,Yes,1
+Sports,Winter,South,1705.78,40,10000,None,Teens,High,Medium,5.0,No,1
+Electronics,Summer,East,20.96,15,10000,Social Media,Teens,Low,Low,3.2,No,1
+Toys,Spring,South,412.78,10,500,Influencer,Teens,High,High,1.7,No,1
+Clothing,Winter,South,47.82,15,50000,None,Seniors,High,High,2.3,Yes,0
+Sports,Summer,East,11.47,20,2000,TV,Teens,High,High,2.7,Yes,1
+Beauty,Summer,South,42.3,0,2000,TV,Seniors,Low,High,2.2,No,0
+Sports,Spring,South,412.03,0,50000,Email,Kids,Low,High,2.1,Yes,0
+Food,Spring,South,17.52,10,5000,None,Seniors,High,High,4.9,Yes,1
+Toys,Autumn,South,1710.71,25,2000,Email,Adults,Medium,High,1.6,No,0
+Furniture,Winter,East,17.54,0,50000,Social Media,Teens,High,High,3.9,Yes,0
+Electronics,Winter,South,1703.39,5,2000,None,Teens,Low,Low,1.0,Yes,0
+Books,Autumn,South,13.39,30,10000,Social Media,Adults,Low,High,3.4,No,1
+Furniture,Winter,East,1711.51,0,20000,Email,Seniors,Low,High,4.7,Yes,1
+Toys,Winter,West,406.13,30,50000,None,Kids,High,High,2.2,Yes,0
+Toys,Winter,North,410.52,15,1000,Email,Adults,Medium,Medium,1.7,Yes,0
+Toys,Winter,West,421.76,25,2000,None,Adults,Low,Low,3.6,Yes,0
+Furniture,Winter,East,20.41,40,2000,Email,Seniors,Low,Low,3.9,Yes,1
+Beauty,Spring,North,413.19,50,500,TV,Teens,High,Low,3.8,Yes,1
+Toys,Winter,East,43.26,25,5000,Email,Seniors,Medium,High,2.3,Yes,1
+Sports,Spring,East,408.55,50,20000,TV,Adults,High,High,2.0,Yes,1
+Furniture,Winter,South,1704.52,15,500,Email,Adults,Low,Medium,4.8,No,0
+Books,Autumn,North,1703.12,25,10000,None,Teens,Medium,Low,4.7,No,1
+Toys,Summer,South,1705.77,40,1000,None,Teens,Medium,High,2.8,No,1
+Sports,Spring,North,10.54,50,5000,None,Teens,Low,Low,4.4,No,1
+Beauty,Winter,East,45.14,10,500,Influencer,Seniors,Medium,Medium,2.8,Yes,0
+Food,Autumn,East,418.37,5,50000,Social Media,Teens,Medium,Medium,2.7,No,1
+Beauty,Summer,West,42.14,25,2000,None,Adults,High,Medium,1.6,No,0
+Books,Spring,North,46.39,15,2000,TV,Adults,Low,Low,2.7,Yes,1
+Toys,Summer,South,1706.42,0,5000,None,Kids,Low,High,3.1,Yes,0
+Books,Autumn,West,1701.83,40,2000,Influencer,Seniors,Low,High,1.1,Yes,0
+Furniture,Spring,West,1699.57,50,50000,TV,Kids,Low,Medium,2.8,Yes,0
+Clothing,Summer,West,13.48,50,500,Influencer,Adults,Low,High,4.1,Yes,0
+Toys,Winter,South,44.62,5,500,TV,Kids,Medium,Medium,3.7,No,0
+Clothing,Spring,West,42.87,50,2000,Email,Adults,High,Low,3.5,Yes,1
+Sports,Summer,South,24.44,30,2000,Social Media,Kids,Low,Medium,4.6,No,1
+Food,Autumn,West,22.02,20,10000,Social Media,Teens,High,Low,1.1,No,1
+Electronics,Autumn,South,22.01,30,1000,Influencer,Kids,High,Medium,3.2,Yes,1
+Books,Spring,East,44.47,50,5000,Social Media,Teens,Medium,High,4.1,No,1
+Beauty,Summer,East,38.34,40,500,Influencer,Teens,Low,High,3.2,No,0
+Food,Spring,East,1706.49,25,5000,Influencer,Seniors,Medium,Medium,2.3,Yes,0
+Toys,Spring,East,1705.19,15,10000,Influencer,Teens,Low,High,1.5,No,0
+Clothing,Summer,East,37.46,0,500,Social Media,Teens,Medium,High,4.6,No,0
+Beauty,Summer,West,1710.92,25,10000,Influencer,Kids,High,High,2.9,No,0
+Clothing,Winter,West,23.58,10,10000,Social Media,Adults,Low,Low,4.5,Yes,1
+Furniture,Summer,West,407.57,25,20000,Influencer,Seniors,High,High,3.3,Yes,0
+Clothing,Autumn,South,1701.68,25,2000,None,Teens,High,Low,3.7,Yes,1
+Furniture,Spring,South,40.41,15,50000,Influencer,Seniors,Medium,Medium,4.2,No,1
+Sports,Spring,South,1707.92,5,20000,TV,Kids,Low,High,3.6,Yes,1
+Beauty,Autumn,South,1707.34,50,5000,Influencer,Teens,High,High,2.6,No,0
+Beauty,Summer,East,1705.09,5,50000,Email,Kids,Medium,High,3.1,Yes,1
+Electronics,Autumn,East,414.66,10,5000,Influencer,Seniors,Low,Medium,4.2,No,0
+Toys,Autumn,East,11.63,0,2000,TV,Kids,Low,Low,2.5,Yes,0
+Furniture,Winter,North,45.06,30,50000,TV,Seniors,High,Low,2.6,Yes,1
+Electronics,Autumn,West,412.78,0,20000,Social Media,Kids,Low,High,1.4,No,0
+Clothing,Spring,South,39.76,50,5000,None,Seniors,High,Medium,4.7,Yes,1
+Clothing,Autumn,South,35.49,0,20000,Influencer,Adults,Low,Medium,1.4,No,1
+Electronics,Spring,East,43.29,20,2000,Social Media,Kids,Medium,Medium,3.6,Yes,1
+Beauty,Spring,South,415.07,30,50000,None,Kids,High,Medium,2.7,Yes,1
+Clothing,Spring,South,9.56,10,50000,Influencer,Adults,High,Medium,2.6,No,1
+Books,Summer,West,43.25,50,500,Email,Adults,Low,Low,3.7,No,0
+Sports,Winter,East,18.68,40,10000,Influencer,Kids,Low,Low,1.3,No,0
+Sports,Spring,West,15.3,10,10000,TV,Adults,High,Low,3.4,Yes,1
+Books,Spring,North,1706.77,20,20000,TV,Teens,Low,High,4.1,No,1
+Electronics,Summer,North,412.62,30,50000,Email,Seniors,Medium,Medium,4.3,Yes,1
+Books,Spring,North,414.7,15,5000,Social Media,Seniors,Low,High,1.7,No,1
+Furniture,Autumn,East,1707.54,20,20000,None,Seniors,Medium,Medium,4.6,No,0
+Furniture,Autumn,South,1707.54,10,20000,Influencer,Teens,Medium,Low,3.6,No,0
+Electronics,Winter,East,23.15,50,1000,TV,Adults,Medium,High,4.5,No,1
+Books,Spring,East,44.85,50,50000,Social Media,Adults,Medium,Low,2.9,No,1
+Furniture,Summer,South,410.9,30,10000,Email,Kids,Medium,Medium,3.2,No,1
+Beauty,Autumn,West,39.92,5,50000,TV,Adults,Low,Medium,4.7,Yes,0
+Books,Summer,North,37.84,30,2000,Email,Kids,Medium,Medium,4.6,No,0
+Beauty,Summer,West,1705.62,30,20000,Influencer,Teens,Low,Low,2.8,Yes,1
+Furniture,Autumn,North,49.76,20,1000,None,Seniors,Medium,Medium,2.1,No,0
+Sports,Summer,East,16.28,50,1000,TV,Seniors,High,Low,2.6,No,1
+Furniture,Autumn,North,1707.12,10,10000,TV,Seniors,Medium,High,2.6,No,0
+Beauty,Summer,East,39.39,15,10000,Influencer,Adults,High,Medium,2.1,Yes,1
+Food,Autumn,West,1705.84,0,10000,Social Media,Kids,Medium,Medium,2.1,Yes,0
+Toys,Spring,East,24.37,25,2000,None,Kids,Medium,Medium,4.4,No,0
+Clothing,Winter,West,21.5,15,1000,TV,Teens,Medium,High,1.3,Yes,0
+Books,Autumn,South,35.3,0,5000,None,Adults,High,Medium,3.7,No,1
+Food,Autumn,South,1707.72,5,2000,TV,Teens,High,Low,1.7,No,0
+Furniture,Winter,South,46.24,10,500,None,Kids,Medium,Low,2.4,Yes,1
+Sports,Autumn,East,44.02,50,20000,Email,Kids,Low,Medium,1.2,Yes,1
+Electronics,Autumn,South,1708.2,40,10000,TV,Seniors,Medium,Medium,2.1,Yes,0
+Furniture,Summer,North,38.99,30,1000,None,Adults,High,High,4.1,Yes,1
+Sports,Winter,West,18.39,15,20000,Social Media,Kids,Medium,High,4.5,No,1
+Toys,Spring,West,1710.42,0,50000,Email,Seniors,High,High,1.9,Yes,1
+Furniture,Autumn,North,1709.97,40,2000,Email,Adults,High,Medium,2.9,Yes,1
+Beauty,Winter,East,1707.61,15,500,Social Media,Teens,High,High,2.9,No,0
+Electronics,Summer,East,1700.45,10,50000,None,Adults,Medium,High,4.5,Yes,0
+Sports,Spring,West,37.95,50,2000,Influencer,Adults,High,Low,4.1,Yes,1
+Sports,Winter,South,43.73,15,2000,Social Media,Kids,High,High,3.1,Yes,1
+Sports,Spring,East,18.97,15,5000,None,Kids,Medium,Low,3.7,Yes,1
+Toys,Spring,East,412.78,50,20000,Social Media,Adults,High,Low,4.4,No,1
+Furniture,Spring,North,409.26,5,5000,Social Media,Kids,Medium,High,1.0,No,0
+Toys,Autumn,North,20.25,20,2000,TV,Kids,High,Low,2.6,Yes,1
+Books,Autumn,South,413.84,15,500,None,Kids,Low,Medium,4.6,Yes,0
+Clothing,Summer,East,19.52,50,1000,Influencer,Seniors,Low,Medium,4.0,No,0
+Clothing,Summer,East,46.12,20,1000,TV,Seniors,High,High,3.2,Yes,0
+Books,Winter,North,1703.5,50,50000,Social Media,Adults,Low,Medium,3.1,Yes,1
+Furniture,Summer,East,1702.42,50,20000,Social Media,Kids,Medium,Low,2.4,Yes,1
+Beauty,Spring,West,48.69,5,10000,Social Media,Seniors,Low,Medium,3.1,Yes,0
+Toys,Spring,North,1701.08,50,10000,None,Adults,High,High,3.6,Yes,1
+Electronics,Autumn,South,1702.52,10,1000,None,Kids,High,High,2.7,Yes,0
+Sports,Spring,North,419.46,15,2000,TV,Teens,Medium,Low,3.9,Yes,1
+Sports,Winter,East,40.42,0,2000,Influencer,Kids,High,High,4.4,Yes,1
+Furniture,Spring,South,412.79,0,5000,TV,Kids,Medium,Medium,1.6,Yes,0
+Beauty,Spring,North,411.23,0,20000,Email,Seniors,Low,High,2.8,No,0
+Clothing,Winter,West,1695.95,50,5000,Social Media,Adults,Low,Low,2.6,No,0
+Clothing,Summer,West,1704.25,40,10000,Social Media,Adults,Medium,High,3.7,No,0
+Sports,Summer,North,38.1,20,1000,Social Media,Seniors,Medium,Medium,2.0,Yes,1
+Furniture,Winter,West,1706.14,20,50000,TV,Kids,High,Low,3.6,Yes,1
+Toys,Autumn,West,1710.4,50,2000,TV,Teens,Low,Medium,4.5,No,0
+Clothing,Spring,West,32.08,10,1000,Social Media,Kids,Medium,Low,2.7,Yes,1
+Toys,Winter,South,1702.83,10,500,TV,Kids,Low,High,4.6,No,0
+Beauty,Spring,West,415.55,30,1000,None,Teens,Medium,Low,5.0,Yes,1
+Clothing,Autumn,West,32.24,50,500,None,Seniors,Low,Low,1.4,No,0
+Clothing,Spring,West,1711.55,25,5000,TV,Adults,High,High,1.9,No,0
+Food,Winter,South,19.97,5,5000,Social Media,Seniors,Low,Medium,4.8,No,1
+Clothing,Spring,North,48.57,0,10000,TV,Seniors,Low,High,4.8,Yes,0
+Books,Summer,East,40.34,5,1000,TV,Kids,Low,Low,1.4,No,0
+Electronics,Autumn,West,15.85,0,1000,TV,Adults,Low,High,1.1,Yes,0
+Books,Autumn,North,1704.06,50,500,Email,Adults,Low,Low,1.6,Yes,1
+Furniture,Autumn,West,1715.56,40,5000,None,Seniors,High,High,5.0,Yes,1
+Furniture,Winter,South,49.75,30,500,Influencer,Teens,Medium,High,1.7,Yes,0
+Toys,Autumn,North,43.82,10,5000,Influencer,Seniors,Low,Medium,3.0,Yes,1
+Books,Summer,South,1706.14,40,500,Email,Teens,High,Low,4.4,Yes,0
+Books,Winter,West,1708.04,5,5000,TV,Adults,Low,Medium,1.1,Yes,1
+Books,Summer,West,425.24,5,500,Email,Seniors,Low,Low,3.4,No,0
+Beauty,Spring,South,45.07,10,50000,Email,Kids,Medium,High,2.1,No,0
+Clothing,Spring,East,43.39,30,5000,Social Media,Seniors,Low,Low,4.4,No,1
+Electronics,Spring,South,16.38,0,20000,None,Adults,High,Medium,2.1,Yes,1
+Toys,Spring,West,414.46,40,500,Influencer,Kids,High,Medium,3.7,Yes,1
+Books,Summer,South,1701.93,30,1000,TV,Kids,Medium,Medium,3.7,Yes,0
+Books,Winter,East,415.77,15,10000,Influencer,Teens,Low,Low,1.9,Yes,1
+Food,Winter,South,1697.7,20,20000,Influencer,Kids,High,Medium,1.1,No,0
+Toys,Autumn,East,1703.56,0,20000,None,Kids,Low,Medium,2.6,Yes,0
+Books,Summer,East,416.96,15,500,Influencer,Seniors,Low,Medium,2.2,No,0
+Toys,Spring,South,45.0,0,10000,Influencer,Adults,Low,High,4.2,Yes,1
+Clothing,Summer,South,1702.55,0,1000,Email,Teens,Medium,High,4.2,No,1
+Food,Autumn,North,412.13,0,20000,None,Seniors,Low,Low,2.8,Yes,0
+Toys,Autumn,West,23.25,30,1000,Social Media,Kids,High,Low,3.4,No,1
+Electronics,Summer,East,407.23,30,5000,TV,Kids,Low,Medium,3.4,Yes,1
+Electronics,Summer,North,12.05,15,50000,Influencer,Teens,High,High,4.3,No,1
+Furniture,Summer,South,1700.22,5,10000,TV,Adults,Low,Medium,2.7,Yes,0
+Food,Winter,West,413.23,10,50000,Social Media,Teens,High,Medium,2.1,No,1
+Food,Spring,North,406.5,40,2000,TV,Seniors,High,High,2.1,No,0
+Furniture,Summer,East,22.83,40,5000,Social Media,Teens,Low,High,3.1,Yes,1
+Toys,Summer,North,408.66,25,10000,Email,Kids,Low,High,2.8,No,0
+Food,Summer,East,414.41,50,500,Influencer,Seniors,High,Low,2.8,Yes,1
+Electronics,Autumn,South,1701.97,50,50000,Social Media,Kids,Medium,Low,1.4,Yes,1
+Electronics,Autumn,West,412.96,15,500,TV,Adults,Low,Medium,3.9,Yes,0
+Books,Winter,West,35.14,0,1000,Influencer,Kids,Medium,Low,1.9,No,1
+Clothing,Spring,West,23.08,0,20000,Email,Kids,Low,High,1.8,No,0
+Food,Winter,South,408.48,20,50000,Influencer,Teens,Low,High,2.7,Yes,1
+Toys,Spring,East,12.74,5,2000,Social Media,Kids,Low,Low,1.9,Yes,0
+Furniture,Autumn,South,29.96,25,500,Email,Seniors,Low,Medium,3.3,No,1
+Furniture,Autumn,West,20.84,30,10000,TV,Seniors,Medium,Medium,2.5,No,1
+Toys,Autumn,South,418.1,0,50000,Email,Adults,Low,Low,2.8,No,1
+Beauty,Winter,South,415.58,25,50000,Email,Seniors,High,Medium,3.1,Yes,1
+Sports,Summer,South,15.81,40,20000,None,Teens,High,Medium,1.8,Yes,1
+Clothing,Summer,East,36.62,20,20000,Email,Adults,Medium,Medium,1.6,Yes,1
+Furniture,Autumn,North,16.57,30,10000,Email,Seniors,Low,High,4.5,Yes,1
+Food,Summer,North,38.26,25,20000,Influencer,Teens,High,High,2.7,Yes,0
+Clothing,Summer,South,13.48,15,500,TV,Seniors,Medium,Low,2.6,No,0
+Food,Winter,North,1696.95,30,10000,Influencer,Seniors,Low,High,1.1,Yes,0
+Beauty,Spring,North,18.64,50,10000,Influencer,Kids,High,Medium,3.0,No,1
+Electronics,Autumn,South,25.94,30,1000,Social Media,Seniors,High,High,3.2,No,1
+Clothing,Autumn,South,416.08,20,2000,Influencer,Seniors,Medium,Low,3.2,Yes,1
+Books,Winter,West,42.63,30,50000,None,Teens,Low,High,3.8,No,0
+Furniture,Winter,North,1704.66,10,1000,None,Teens,Low,Medium,1.7,Yes,1
+Clothing,Summer,East,27.92,5,2000,Social Media,Kids,High,Medium,2.0,No,1
+Clothing,Autumn,South,1702.75,20,10000,TV,Seniors,High,Low,4.2,Yes,1
+Clothing,Spring,West,10.94,15,50000,TV,Kids,High,High,4.8,Yes,1
+Sports,Winter,East,413.96,20,20000,Influencer,Seniors,Low,High,1.5,No,0
+Clothing,Spring,North,411.99,40,2000,Influencer,Adults,Medium,High,3.0,Yes,0
+Food,Spring,West,38.81,15,10000,Influencer,Adults,Medium,Medium,1.9,No,1
+Electronics,Autumn,South,413.85,50,10000,TV,Kids,Low,Low,1.2,Yes,1
+Beauty,Autumn,East,43.67,30,1000,Email,Kids,Medium,High,2.3,Yes,0
+Toys,Winter,South,50.75,30,1000,None,Kids,High,Medium,1.6,Yes,0
+Clothing,Autumn,North,1708.3,40,20000,Email,Teens,Medium,Medium,3.8,No,1
+Furniture,Autumn,East,44.24,25,5000,Email,Teens,Medium,Medium,3.1,No,0
+Clothing,Autumn,North,1700.13,40,500,TV,Teens,Medium,High,1.6,Yes,0
+Furniture,Spring,North,407.92,10,5000,Email,Kids,High,High,1.0,No,1
+Food,Winter,West,46.15,0,5000,Social Media,Seniors,Low,High,4.2,Yes,1
+Furniture,Summer,South,42.15,25,50000,Influencer,Adults,High,High,1.7,No,0
+Books,Spring,East,19.32,0,50000,Social Media,Kids,Low,High,3.4,No,1
+Toys,Autumn,North,48.05,50,20000,None,Teens,Low,High,2.3,Yes,0
+Electronics,Spring,North,35.59,5,50000,Influencer,Teens,Low,High,3.3,Yes,0
+Furniture,Autumn,East,25.05,5,2000,Email,Kids,Medium,High,2.3,Yes,0
+Furniture,Autumn,North,22.92,30,20000,None,Kids,Medium,High,1.3,Yes,0
+Electronics,Spring,West,403.01,5,20000,Influencer,Teens,Low,Medium,1.9,Yes,0
+Toys,Winter,West,54.92,40,10000,Email,Seniors,Low,High,1.8,No,0
+Clothing,Autumn,West,414.89,25,10000,Social Media,Teens,Medium,Low,2.7,No,1
+Furniture,Winter,West,410.89,30,10000,Influencer,Teens,High,Medium,3.6,Yes,1
+Electronics,Summer,North,20.66,30,500,Email,Kids,Low,High,2.1,Yes,0
+Books,Autumn,East,1699.98,25,2000,Social Media,Seniors,High,Low,1.0,Yes,1
+Books,Winter,East,416.02,50,2000,None,Teens,Medium,High,3.1,No,0
+Food,Winter,East,1700.9,50,10000,None,Teens,Low,Low,3.4,Yes,1
+Electronics,Summer,East,53.26,30,5000,None,Adults,High,Low,4.9,Yes,1
+Food,Winter,South,18.37,50,500,None,Kids,High,Low,3.4,No,1
+Books,Winter,East,46.4,10,5000,TV,Adults,High,Low,2.9,No,1
+Toys,Summer,South,39.22,10,1000,Influencer,Adults,Medium,Medium,3.3,No,0
+Clothing,Autumn,South,22.15,0,2000,Influencer,Teens,Medium,Medium,4.7,No,1
+Electronics,Winter,West,43.09,20,2000,TV,Kids,High,Low,4.3,Yes,1
+Beauty,Winter,South,11.01,15,5000,Email,Seniors,High,High,2.3,No,1
+Books,Winter,North,1703.67,5,500,Email,Teens,Medium,Low,1.9,No,0
+Books,Spring,South,52.81,50,2000,None,Seniors,High,Medium,2.1,Yes,1
+Beauty,Summer,West,22.36,10,5000,Social Media,Seniors,High,High,3.0,Yes,0
+Sports,Spring,South,411.39,40,20000,Email,Kids,Medium,Medium,4.0,Yes,1
+Books,Summer,North,33.81,25,20000,Social Media,Adults,High,Medium,3.0,No,0
+Furniture,Autumn,North,1700.7,20,50000,Influencer,Kids,High,High,1.3,Yes,1
+Toys,Autumn,North,11.04,0,500,Social Media,Seniors,High,Low,3.9,No,0
+Electronics,Winter,West,33.93,15,5000,Influencer,Teens,Medium,Low,4.2,No,1
+Beauty,Summer,West,47.08,10,50000,TV,Seniors,High,Low,2.2,No,1
+Furniture,Autumn,East,43.47,0,20000,TV,Teens,Medium,Low,3.7,Yes,0
+Beauty,Summer,West,1713.84,20,500,None,Teens,Medium,High,2.7,No,0
+Electronics,Autumn,North,13.08,25,50000,Email,Kids,Low,High,4.6,Yes,1
+Food,Spring,North,413.27,5,10000,None,Seniors,Low,High,4.4,Yes,0
+Electronics,Autumn,West,406.32,10,500,Influencer,Adults,High,Medium,3.1,Yes,1
+Sports,Spring,South,410.31,25,1000,None,Seniors,Medium,High,3.8,No,0
+Electronics,Autumn,West,16.96,15,10000,Social Media,Seniors,Low,Low,4.5,No,1
+Electronics,Winter,West,411.41,50,50000,Influencer,Adults,High,Medium,3.0,No,1
+Sports,Spring,North,1705.14,20,5000,TV,Kids,Low,Low,2.3,Yes,1
+Toys,Autumn,East,22.93,15,10000,Email,Seniors,Low,Low,4.0,No,1
+Books,Winter,North,47.49,5,10000,Influencer,Seniors,Medium,High,1.9,No,0
+Electronics,Spring,East,1701.02,25,50000,Influencer,Teens,Medium,High,2.6,No,1
+Sports,Winter,North,43.0,5,5000,Social Media,Seniors,Low,Low,4.5,No,1
+Furniture,Summer,West,417.26,30,5000,Email,Adults,Low,Low,3.9,No,0
+Food,Summer,North,1710.05,10,20000,TV,Teens,Medium,Medium,2.6,Yes,1
+Food,Spring,North,14.76,50,1000,Influencer,Kids,High,High,1.9,Yes,1
+Electronics,Autumn,North,1708.41,20,5000,Influencer,Teens,Medium,Medium,2.4,Yes,1
+Toys,Spring,West,44.81,40,2000,Social Media,Adults,Low,Medium,2.1,Yes,0
+Toys,Winter,West,12.74,25,2000,None,Adults,High,Medium,1.7,No,1
+Furniture,Autumn,West,1708.87,40,1000,TV,Teens,Low,Low,4.0,Yes,0
+Electronics,Summer,West,1705.63,10,500,Email,Kids,High,Medium,2.0,No,0
+Food,Autumn,East,1696.16,10,50000,Influencer,Teens,Low,Medium,2.8,Yes,0
+Toys,Summer,East,1703.4,20,500,Influencer,Kids,High,Low,2.5,Yes,0
+Electronics,Autumn,South,18.27,10,2000,TV,Teens,High,High,4.9,Yes,1
+Beauty,Autumn,West,40.13,40,5000,None,Adults,Low,High,2.6,No,0
+Toys,Autumn,East,1711.01,40,1000,Influencer,Seniors,High,Medium,1.3,No,0
+Sports,Winter,North,24.39,5,500,TV,Seniors,Medium,Low,1.4,Yes,0
+Beauty,Winter,West,41.24,15,500,Social Media,Kids,Low,High,3.4,No,0
+Books,Spring,South,1702.41,0,50000,None,Kids,Medium,Medium,3.4,Yes,0
+Toys,Spring,South,42.5,15,10000,Email,Kids,Low,Medium,2.7,Yes,1
+Food,Summer,South,42.15,15,2000,Influencer,Adults,High,Low,2.7,Yes,1
+Clothing,Winter,North,15.11,50,5000,TV,Teens,High,Medium,1.2,No,1
+Beauty,Summer,East,24.61,10,1000,Social Media,Adults,High,High,3.1,Yes,1
+Books,Spring,North,26.84,5,500,Email,Seniors,Low,Low,3.0,Yes,1
+Furniture,Summer,West,1704.87,50,50000,TV,Kids,Medium,High,1.6,Yes,0
+Furniture,Spring,South,42.26,50,10000,TV,Teens,Medium,High,1.4,No,0
+Food,Winter,North,44.78,0,2000,Email,Seniors,Low,High,1.5,Yes,0
+Toys,Autumn,North,412.89,25,2000,Social Media,Seniors,Low,Medium,1.4,No,0
+Electronics,Winter,East,1702.72,40,50000,Social Media,Seniors,Medium,Medium,3.4,Yes,0
+Toys,Summer,East,1699.84,10,1000,None,Adults,Medium,High,1.8,No,0
+Food,Summer,South,404.09,50,500,Influencer,Kids,Medium,High,2.0,Yes,0
+Furniture,Winter,North,406.51,5,1000,Email,Seniors,Medium,Low,1.7,Yes,1
+Toys,Winter,North,12.49,25,50000,Email,Kids,Low,Low,4.8,No,0
+Furniture,Spring,East,21.32,0,50000,Email,Adults,Low,Medium,4.4,No,0
+Beauty,Summer,North,46.78,30,1000,Social Media,Seniors,High,Medium,1.9,Yes,1
+Books,Summer,North,38.75,10,20000,Influencer,Adults,Medium,Low,2.3,No,1
+Electronics,Winter,North,29.84,30,10000,None,Adults,High,High,1.8,Yes,1
+Beauty,Autumn,East,43.2,15,2000,TV,Kids,Low,Medium,3.0,Yes,1
+Furniture,Summer,South,15.96,50,20000,TV,Seniors,Low,High,1.1,Yes,0
+Furniture,Autumn,West,1702.64,20,5000,Email,Adults,High,Low,3.7,No,1
+Clothing,Winter,South,47.93,10,2000,Influencer,Seniors,Medium,Medium,3.1,Yes,1
+Clothing,Winter,West,1705.56,40,2000,Social Media,Kids,Medium,Medium,4.6,No,0
+Beauty,Spring,North,38.27,25,10000,Influencer,Adults,Medium,Low,1.7,Yes,1
+Sports,Summer,South,407.25,5,5000,Influencer,Kids,Medium,Medium,4.2,No,0
+Beauty,Autumn,West,41.84,10,500,Social Media,Seniors,High,Low,4.2,No,1
+Clothing,Spring,East,38.62,40,5000,Email,Seniors,High,Medium,1.5,Yes,1
+Furniture,Summer,East,42.79,30,500,Influencer,Kids,Low,Low,2.6,No,0
+Food,Spring,South,23.2,25,5000,TV,Teens,Medium,Medium,1.7,Yes,1
+Beauty,Winter,South,406.39,0,1000,Social Media,Adults,Medium,High,2.0,Yes,0
+Furniture,Summer,North,43.59,50,50000,None,Seniors,Medium,High,2.1,Yes,1
+Food,Spring,South,47.73,10,5000,Email,Seniors,High,High,3.2,Yes,1
+Food,Spring,North,1704.44,20,20000,Social Media,Adults,Medium,Medium,2.6,Yes,0
+Clothing,Autumn,North,416.89,30,20000,None,Kids,High,Medium,4.8,No,1
+Beauty,Spring,East,41.72,30,10000,None,Kids,Medium,High,1.5,Yes,0
+Toys,Summer,East,1705.72,10,50000,Influencer,Kids,Medium,High,4.9,No,1
+Electronics,Summer,West,1707.07,15,50000,Influencer,Teens,Low,Low,1.9,No,0
+Clothing,Autumn,East,15.21,30,500,Influencer,Teens,Medium,Low,4.1,Yes,1
+Clothing,Summer,East,1714.82,40,2000,Social Media,Seniors,Medium,Low,2.4,No,1
+Toys,Winter,South,46.04,5,10000,Social Media,Kids,Low,High,1.6,Yes,0
+Electronics,Summer,East,24.58,50,20000,Email,Adults,High,High,4.4,No,1
+Furniture,Summer,West,23.42,30,20000,Influencer,Seniors,High,High,2.2,No,1
+Sports,Spring,South,44.79,40,500,None,Adults,Medium,Low,3.6,No,0
+Beauty,Spring,West,420.22,25,20000,TV,Seniors,High,Medium,3.3,Yes,1
+Sports,Summer,East,1705.81,25,20000,Email,Teens,Medium,High,2.9,No,0
+Furniture,Autumn,West,14.42,50,500,Social Media,Seniors,Low,Medium,3.0,Yes,0
+Books,Spring,South,413.36,15,20000,Email,Teens,Low,Medium,3.9,No,1
+Clothing,Autumn,North,38.12,20,2000,Email,Seniors,Medium,Medium,1.4,No,1
+Electronics,Summer,West,1694.36,50,1000,Email,Kids,Low,Low,3.7,No,1
+Clothing,Summer,West,1700.6,0,10000,Email,Adults,Low,Medium,4.6,No,0
+Food,Winter,South,18.43,15,2000,TV,Kids,Medium,High,1.2,Yes,0
+Clothing,Spring,South,1710.18,30,2000,Influencer,Seniors,Medium,Low,1.6,Yes,0
+Clothing,Summer,West,1700.59,50,1000,None,Seniors,Low,High,3.9,No,0
+Furniture,Winter,East,1709.92,25,50000,Email,Seniors,High,High,2.7,No,1
+Furniture,Spring,West,1698.81,40,10000,Email,Teens,High,Low,2.6,Yes,1
+Furniture,Summer,South,38.56,50,2000,Email,Adults,Medium,High,1.5,Yes,0
+Sports,Summer,North,420.53,15,20000,Influencer,Adults,Medium,High,3.0,Yes,0
+Food,Spring,North,43.39,0,1000,Social Media,Seniors,High,Low,1.5,Yes,1
+Books,Spring,East,42.29,40,50000,Social Media,Seniors,Low,High,2.9,No,0
+Books,Spring,West,19.25,5,10000,TV,Teens,High,Medium,4.1,No,0
+Furniture,Summer,North,1698.84,0,5000,Social Media,Kids,High,High,2.0,Yes,0
+Electronics,Summer,West,41.5,30,500,Email,Kids,High,Medium,2.9,Yes,1
+Sports,Winter,South,1704.88,50,20000,Email,Adults,High,High,5.0,Yes,1
+Toys,Autumn,North,49.31,50,1000,Email,Teens,Medium,Low,3.7,Yes,1
+Electronics,Spring,East,34.8,10,500,TV,Seniors,Medium,Low,4.4,Yes,1
+Beauty,Summer,South,26.88,25,50000,Email,Adults,Low,High,2.7,Yes,1
+Beauty,Summer,East,412.66,30,50000,Social Media,Teens,Low,Low,4.1,No,1
+Electronics,Spring,South,407.73,50,5000,Influencer,Kids,Low,High,1.2,No,1
+Furniture,Autumn,North,36.7,5,2000,Influencer,Teens,Low,Low,1.5,No,1
+Toys,Spring,East,19.43,40,2000,None,Kids,High,Medium,1.8,Yes,0
+Toys,Autumn,East,1698.13,30,10000,Social Media,Teens,Medium,High,2.6,Yes,0
+Sports,Summer,South,1702.07,15,1000,Email,Adults,Medium,Medium,4.4,Yes,0
+Toys,Autumn,East,41.91,5,1000,Influencer,Kids,Low,Medium,2.4,No,0
+Beauty,Winter,South,419.0,40,50000,Social Media,Adults,Low,High,3.6,Yes,0
+Food,Summer,South,23.16,20,10000,Influencer,Adults,High,Medium,3.8,Yes,0
+Furniture,Winter,South,410.07,25,500,Email,Kids,High,High,3.3,No,1
+Toys,Spring,South,1703.8,30,2000,Influencer,Kids,Low,Medium,2.4,Yes,0
+Sports,Spring,North,405.31,0,2000,None,Seniors,Medium,High,3.3,No,0
+Beauty,Spring,South,1694.67,40,50000,None,Seniors,Medium,High,2.4,No,1
+Food,Autumn,West,11.92,15,1000,Influencer,Seniors,Medium,Low,1.3,Yes,0
+Clothing,Summer,East,23.68,50,50000,Social Media,Adults,Low,High,5.0,No,0
+Clothing,Spring,West,47.06,0,1000,Social Media,Adults,Medium,High,1.5,Yes,1
+Food,Spring,North,45.07,5,10000,Social Media,Seniors,High,Medium,1.3,No,1
+Beauty,Summer,West,406.0,25,5000,Influencer,Adults,High,High,4.5,Yes,1
+Sports,Spring,East,14.51,0,500,Social Media,Adults,Low,Low,2.2,No,0
+Food,Winter,West,13.78,15,20000,Email,Kids,High,Medium,3.6,Yes,1
+Furniture,Summer,North,42.33,40,5000,None,Kids,Low,Medium,2.3,No,0
+Furniture,Summer,South,1703.72,20,5000,Email,Adults,Medium,Low,2.6,No,1
+Clothing,Summer,West,408.28,50,1000,Social Media,Seniors,Medium,Medium,2.0,No,0
+Toys,Winter,North,415.03,25,1000,Email,Teens,Medium,Medium,2.4,Yes,1
+Sports,Summer,North,44.3,0,1000,Social Media,Seniors,High,Medium,2.6,Yes,1
+Clothing,Winter,East,14.42,25,5000,Influencer,Teens,Low,Medium,3.9,No,1
+Toys,Summer,East,44.68,25,50000,Email,Seniors,Medium,Low,3.0,Yes,1
+Toys,Autumn,West,48.78,25,500,Influencer,Kids,Low,Low,4.8,No,0
+Books,Spring,South,50.3,40,50000,Influencer,Adults,Medium,Medium,1.2,Yes,1
+Furniture,Autumn,North,45.61,25,1000,TV,Adults,High,Medium,3.0,No,1
+Beauty,Spring,West,1707.17,20,2000,Social Media,Kids,High,Low,3.3,Yes,1
+Electronics,Winter,North,1703.67,5,50000,None,Teens,Low,Low,4.7,No,0
+Beauty,Autumn,North,23.22,15,500,Social Media,Teens,High,Low,1.2,No,1
+Electronics,Summer,South,37.8,20,2000,None,Teens,High,Medium,3.3,No,0
+Food,Spring,South,1709.44,15,500,Social Media,Kids,Low,Medium,4.4,No,0
+Furniture,Spring,West,16.63,5,1000,Influencer,Teens,Medium,High,2.0,Yes,0
+Toys,Autumn,South,50.61,30,50000,Email,Kids,High,Low,4.5,No,1
+Sports,Winter,South,416.23,5,20000,Email,Seniors,Low,Medium,1.1,Yes,0
+Electronics,Autumn,West,1704.53,0,10000,TV,Seniors,High,Low,3.9,Yes,1
+Beauty,Winter,South,16.89,20,1000,None,Kids,High,Medium,4.7,No,1
+Toys,Winter,East,415.91,0,5000,None,Adults,High,Low,3.6,Yes,1
+Electronics,Spring,North,45.54,0,20000,None,Seniors,High,Medium,2.8,Yes,0
+Electronics,Autumn,North,41.16,0,5000,Influencer,Teens,Low,High,1.2,Yes,0
+Books,Autumn,North,43.61,25,500,None,Kids,Low,High,4.7,No,1
+Electronics,Winter,North,1709.35,50,5000,Email,Teens,Low,Low,2.9,Yes,1
+Sports,Autumn,West,11.25,0,20000,Influencer,Teens,High,Medium,1.1,Yes,1
+Furniture,Summer,North,416.92,20,20000,Social Media,Adults,High,Medium,3.8,No,1
+Sports,Summer,North,20.67,50,1000,None,Teens,High,Low,2.9,No,0
+Clothing,Autumn,North,1710.8,50,2000,None,Adults,Low,Medium,1.5,Yes,0
+Toys,Autumn,North,14.49,0,1000,Social Media,Seniors,High,Low,1.9,No,0
+Furniture,Winter,East,1704.9,40,500,None,Kids,Medium,Medium,1.3,Yes,0
+Books,Summer,North,44.18,0,5000,Social Media,Teens,High,Low,3.3,Yes,1
+Furniture,Summer,East,416.98,40,2000,Influencer,Kids,Medium,Medium,3.5,Yes,0
+Furniture,Spring,West,45.3,0,50000,Email,Teens,High,Low,3.0,No,1
+Beauty,Winter,South,11.87,20,10000,Social Media,Kids,Low,Medium,4.3,Yes,1
+Furniture,Spring,North,44.61,40,20000,TV,Teens,High,High,4.4,No,1
+Books,Summer,South,423.31,25,2000,Social Media,Teens,Medium,Medium,3.5,No,1
+Sports,Winter,South,46.21,50,50000,None,Teens,Medium,Low,1.1,Yes,1
+Furniture,Autumn,West,421.48,0,2000,Influencer,Teens,High,High,3.8,No,0
+Food,Winter,South,418.5,50,1000,Influencer,Teens,Medium,Medium,2.7,No,0
+Toys,Autumn,East,49.97,0,50000,Social Media,Teens,Medium,High,3.3,No,0
+Furniture,Autumn,South,1706.42,10,10000,Email,Teens,Low,Medium,3.6,No,0
+Toys,Winter,South,20.68,0,20000,TV,Teens,High,High,2.4,No,1
+Food,Autumn,South,1706.14,10,500,Influencer,Teens,High,Low,4.7,Yes,1
+Food,Spring,North,1704.89,5,500,None,Kids,High,Medium,1.5,No,0
+Toys,Summer,North,46.87,5,2000,None,Adults,Medium,Medium,3.7,Yes,0
+Electronics,Autumn,East,15.46,50,50000,Email,Teens,High,Low,1.0,Yes,1
+Clothing,Spring,East,27.5,40,2000,Influencer,Adults,High,High,4.7,Yes,0
+Beauty,Autumn,North,1700.23,0,5000,Social Media,Teens,Low,Low,1.5,Yes,1
+Electronics,Summer,East,47.21,15,10000,None,Teens,Low,Low,1.4,Yes,0
+Electronics,Spring,North,24.96,0,20000,Email,Kids,Low,High,2.3,Yes,0
+Sports,Summer,West,1703.98,0,2000,Influencer,Seniors,Medium,Low,2.5,No,0
+Beauty,Summer,South,12.5,15,5000,Influencer,Seniors,High,Medium,1.9,No,1
+Beauty,Spring,South,48.93,5,50000,Influencer,Kids,Low,Medium,3.3,No,0
+Electronics,Spring,East,44.17,10,10000,Influencer,Adults,Low,Medium,2.8,Yes,1
+Furniture,Spring,North,47.22,50,20000,Influencer,Seniors,Low,Low,1.1,No,1
+Sports,Winter,North,17.52,5,500,None,Kids,High,Medium,2.3,No,0
+Sports,Spring,East,421.95,15,5000,Email,Kids,High,Medium,4.2,No,0
+Food,Spring,North,7.48,0,50000,Influencer,Seniors,High,Medium,3.8,Yes,1
+Books,Spring,West,415.17,5,10000,TV,Adults,Medium,Medium,3.9,No,1
+Beauty,Spring,South,49.86,20,5000,TV,Kids,Medium,Medium,3.8,Yes,0
+Electronics,Autumn,East,1705.39,0,2000,Email,Teens,Low,Medium,2.2,No,0
+Food,Winter,East,414.8,30,1000,Social Media,Adults,High,Low,1.4,Yes,1
+Toys,Summer,North,40.99,15,500,Social Media,Adults,Low,Medium,2.1,Yes,1
+Clothing,Spring,East,43.26,25,2000,Social Media,Seniors,High,Medium,4.3,Yes,1
+Books,Autumn,West,404.93,40,2000,TV,Seniors,High,High,4.9,No,0
+Books,Autumn,North,1701.28,25,50000,Social Media,Teens,High,Low,3.0,No,1
+Books,Autumn,North,39.22,5,50000,None,Kids,Medium,Low,1.0,Yes,1
+Sports,Summer,North,416.63,0,10000,Influencer,Seniors,Medium,Low,1.6,No,0
+Toys,Spring,North,1702.01,40,50000,TV,Seniors,High,Low,2.3,Yes,1
+Books,Winter,West,1702.15,40,5000,Email,Adults,Low,Medium,3.3,Yes,0
+Toys,Winter,North,41.27,50,500,Email,Seniors,High,Medium,1.3,No,0
+Furniture,Autumn,East,14.33,25,2000,Influencer,Seniors,High,High,4.8,No,0
+Books,Summer,West,19.41,0,10000,TV,Seniors,Low,High,2.5,No,0
+Clothing,Summer,South,45.04,50,500,Social Media,Seniors,High,Low,4.7,Yes,1
+Toys,Summer,South,1708.99,10,50000,Social Media,Adults,Low,High,4.1,Yes,1
+Toys,Winter,East,46.42,25,50000,None,Teens,Medium,High,4.0,No,0
+Clothing,Autumn,East,416.05,50,5000,None,Teens,Medium,Low,3.4,Yes,1
+Books,Spring,West,16.42,10,50000,Social Media,Kids,Low,Low,3.5,No,1
+Clothing,Winter,South,411.32,20,2000,Email,Seniors,Medium,High,3.6,Yes,0
+Toys,Autumn,South,38.8,20,20000,Email,Adults,Medium,Medium,3.5,No,0
+Clothing,Autumn,South,38.71,30,2000,None,Kids,Low,High,3.2,No,1
+Toys,Spring,South,1705.84,15,2000,Influencer,Kids,Medium,High,4.9,Yes,1
+Toys,Spring,South,1701.27,15,50000,Social Media,Teens,High,Medium,3.9,No,1
+Furniture,Spring,North,1712.21,30,500,None,Adults,High,Medium,4.1,No,1
+Electronics,Summer,East,413.1,50,50000,None,Adults,Low,Low,4.5,Yes,0
+Toys,Spring,North,1712.37,15,500,Social Media,Adults,Medium,Low,1.9,No,1
+Books,Autumn,South,46.01,15,500,Social Media,Teens,High,High,1.3,Yes,0
+Food,Spring,West,1700.98,25,500,Email,Teens,High,Medium,2.9,No,1

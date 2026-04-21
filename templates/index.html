@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Predict product market success using advanced machine learning insights for shopkeepers.">
+    <title>AI Product Predictor | Smart Inventory Insights</title>
+    <!-- Favicon placeholder if needed -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <!-- Load Lucide Icons -->
+    <script src="https://unpkg.com/lucide@latest"></script>
+</head>
+
+<body>
+    <div class="container">
+        <header>
+            <div class="header-icon">
+                <i data-lucide="store" size="48"></i>
+            </div>
+            <h1>Product Success Predictor</h1>
+            <p><i data-lucide="line-chart" size="16"></i> Intelligence-driven inventory decisions for modern shopkeepers</p>
+        </header>
+
+        <main class="predictor-card">
+            <form action="/predict#results" method="POST" id="predictorForm">
+                <div class="form-grid">
+                    <div class="form-group">
+                        <label for="Category">Product Category</label>
+                        <div class="input-wrapper">
+                            <select name="Category" id="Category" required>
+                                {% for cat in categories['Category'] %}
+                                <option value="{{ cat }}" {% if form_data and form_data['Category']==cat %}selected{% endif %}>{{ cat }}</option>
+                                {% endfor %}
+                            </select>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="Seasonality">Season</label>
+                        <div class="input-wrapper">
+                            <select name="Seasonality" id="Seasonality" required>
+                                {% for season in categories['Seasonality'] %}
+                                <option value="{{ season }}" {% if form_data and form_data['Seasonality']==season %}selected{% endif %}>{{ season }}</option>
+                                {% endfor %}
+                            </select>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="Region">Target Region</label>
+                        <div class="input-wrapper">
+                            <select name="Region" id="Region" required>
+                                {% for reg in categories['Region'] %}
+                                <option value="{{ reg }}" {% if form_data and form_data['Region']==reg %}selected{% endif %}>{{ reg }}</option>
+                                {% endfor %}
+                            </select>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="Price">Unit Price ($)</label>
+                        <div class="input-wrapper">
+                            <input type="number" name="Price" id="Price" step="0.01" min="0"
+                                value="{{ form_data['Price'] if form_data else '49.99' }}" required>
+                        </div>
+                    </div>
+
+                    <div class="form-group full-width">
+                        <label for="Discount">Promotional Discount (%)</label>
+                        <div class="input-wrapper">
+                            <input type="number" name="Discount" id="Discount" min="0" max="100"
+                                value="{{ form_data['Discount'] if form_data else '10' }}" required>
+                        </div>
+                    </div>
+                </div>
+
+                <button type="submit" class="btn-predict" id="submitBtn">
+                    <i data-lucide="zap"></i>
+                    <span>Analyze Market Potential</span>
+                </button>
+            </form>
+
+            {% if prediction %}
+            <section class="result-section" id="results">
+                <p class="result-status">AI-Powered Analysis</p>
+                
+                <div class="prediction-badge {% if prediction == 'SUCCESS' %}success{% else %}failure{% endif %}">
+                    {{ prediction }}
+                </div>
+
+                <div class="confidence-metrics">
+                    <div class="confidence-header">
+                        <span>Prediction Confidence</span>
+                        <span>{{ probability }}%</span>
+                    </div>
+                    <div class="progress-track">
+                        <div class="progress-fill {% if prediction == 'SUCCESS' %}success{% else %}failure{% endif %}"
+                            id="progressFill" style="width: 0%"></div>
+                    </div>
+                </div>
+
+                <div class="insight-card">
+                    <h4>Strategic Insight</h4>
+                    <p>{{ message }}</p>
+                </div>
+            </section>
+            
+            <script>
+                // Animate progress bar on load
+                window.addEventListener('load', () => {
+                    setTimeout(() => {
+                        document.getElementById('progressFill').style.width = '{{ probability }}%';
+                    }, 300);
+                    
+                    document.getElementById('results').scrollIntoView({ behavior: 'smooth' });
+                });
+            </script>
+            {% endif %}
+        </main>
+    </div>
+
+    <script>
+        // Initialize Lucide icons
+        lucide.createIcons();
+
+        // Form loading state
+        const form = document.getElementById('predictorForm');
+        const btn = document.getElementById('submitBtn');
+        const btnText = btn.querySelector('span');
+        
+        form.addEventListener('submit', () => {
+            btn.disabled = true;
+            btnText.textContent = 'Processing Data...';
+            btn.style.opacity = '0.7';
+            btn.style.cursor = 'not-allowed';
+        });
+    </script>
+</body>
+
+</html>
