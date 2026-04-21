@@ -211,42 +211,6 @@ http://localhost:5000
 | Flask | Web backend server |
 | HTML + CSS | Frontend user interface |
 
----
 
-## 🎓 Key Concepts
-
-| Concept | What It Does |
-|---|---|
-| One Hot Encoding | Converts category words to 0s and 1s |
-| StandardScaler | Brings all numbers to same scale |
-| IQR Winsorization | Caps outliers without deleting rows |
-| Logistic Regression | Learns weights and predicts probability |
-| Sigmoid Function | Converts score to probability 0 to 1 |
-| Train Test Split | 80% train, 20% test for fair evaluation |
-| Confusion Matrix | Shows where model is right and wrong |
-| AUC Score | Measures how well model separates classes |
 
 ---
-
-## 💡 Business Insights
-
-- **Electronics** category shows the highest success rate
-- Products with **20-30% discount** perform significantly better
-- **Winter and Spring** launches have better success rates
-- **Lower priced products** (below $100) are more likely to succeed
-- **North and East regions** show better success rates
-
----
-
-## ⚠️ No Data Leakage
-
-- Only pre-stocking features used as inputs
-- StandardScaler fit on training data only
-- No post-launch metrics used anywhere
-
----
-
-## 👩‍💻 Author
-
-**Aditi**  
-DSP Lab Mini Project
